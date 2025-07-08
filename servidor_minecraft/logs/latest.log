@@ -1554,3 +1554,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [08Jul2025 16:46:00.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [The Soul Forge]
 [08Jul2025 16:49:14.359] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [08Jul2025 16:49:18.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [The Soul Forge]
+[08Jul2025 16:52:14.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [The broken Nether's warmachine]
+[08Jul2025 16:53:21.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Best Friends Forever]
+[08Jul2025 16:53:32.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[08Jul2025 16:53:32.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[08Jul2025 16:55:49.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 4 [Ancient Debris] to Aqui_Si_Ban
+[08Jul2025 16:56:04.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:'
+[08Jul2025 16:56:04.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ckdesfail  minecraft:ancient_debris 1<--[HERE]
+[08Jul2025 16:56:10.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Hidden in the Depths]
+[08Jul2025 16:56:10.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ancient Debris] to blackdesfail
+[08Jul2025 16:56:29.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ancient Debris] to blackdesfail
+[08Jul2025 17:00:11.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Disconnected
+[08Jul2025 17:00:11.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[08Jul2025 17:02:34.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [Cover Me in Debris]
