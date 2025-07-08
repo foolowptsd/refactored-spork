@@ -1,0 +1,176 @@
+---- Minecraft Crash Report ----
+// But it works on my machine.
+
+Time: 2025-07-08 18:31:07
+Description: Exception in server tick loop
+
+java.lang.AbstractMethodError: Receiver class com.min01.archaeology.blockentity.DecoratedPotBlockEntity does not define or inherit an implementation of the resolved method 'abstract net.minecraft.world.level.Level getLevel()' of interface com.min01.archaeology.container.RandomizableContainer.
+	at com.min01.archaeology.container.RandomizableContainer.unpackLootTable(RandomizableContainer.java:94) ~[L_Enders_Cataclysm-2.46-1.19.2.jar%23217!/:2.46-1.19.2] {re:classloading}
+	at com.min01.archaeology.blockentity.DecoratedPotBlockEntity.getTheItem(DecoratedPotBlockEntity.java:145) ~[L_Enders_Cataclysm-2.46-1.19.2.jar%23217!/:2.46-1.19.2] {re:classloading}
+	at com.min01.archaeology.block.DecoratedPotBlock.handleWithItem(DecoratedPotBlock.java:150) ~[L_Enders_Cataclysm-2.46-1.19.2.jar%23217!/:2.46-1.19.2] {re:classloading}
+	at com.min01.archaeology.block.DecoratedPotBlock.m_6227_(DecoratedPotBlock.java:111) ~[L_Enders_Cataclysm-2.46-1.19.2.jar%23217!/:2.46-1.19.2] {re:classloading}
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:714) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:pehkui.mixins.json:compat116plus.AbstractBlockStateMixin,pl:mixin:APP:apoli.mixins.json:AbstractBlockStateMixin,pl:mixin:APP:starlight.mixins.json:common.blockstate.BlockStateBaseMixin,pl:mixin:APP:canary.mixins.json:ai.pathing.BlockStateBaseMixin,pl:mixin:APP:canary.mixins.json:block.flatten_states.BlockStateBaseMixin,pl:mixin:APP:lootr.mixins.json:MixinBlockStateBase,pl:mixin:A}
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:340) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:computing_frames,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayerInteractionManagerMixin,pl:mixin:APP:mixins.artifacts.json:item.diggingclaws.ServerPlayerGameModeMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1060) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1193minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.artifacts.json:item.umbrella.ServerGamePacketListenerImplMixin,pl:mixin:APP:bettercombat.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:expandability-common.mixins.json:swimming.server.ServerGamePacketListenerImplMixin,pl:mixin:APP:connectivity.mixins.json:ServerPlayNetHandlerMixin,pl:mixin:A}
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:mixin,re:classloading}
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:mixin,re:classloading}
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:classloading}
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:classloading}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:computing_frames,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:computing_frames,re:mixin,re:classloading}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,xf:fml:xaerominimap:xaero_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,xf:fml:xaerominimap:xaero_minecraftserver,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:fastload.mixins.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:APP:balm.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,xf:fml:xaerominimap:xaero_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,xf:fml:xaerominimap:xaero_minecraftserver,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:fastload.mixins.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:APP:balm.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:computing_frames,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,xf:fml:xaerominimap:xaero_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,xf:fml:xaerominimap:xaero_minecraftserver,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:fastload.mixins.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:APP:balm.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,xf:fml:xaerominimap:xaero_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,xf:fml:xaerominimap:xaero_minecraftserver,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:fastload.mixins.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:APP:balm.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:computing_frames,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,xf:fml:xaerominimap:xaero_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,xf:fml:xaerominimap:xaero_minecraftserver,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:fastload.mixins.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:APP:balm.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,xf:fml:xaerominimap:xaero_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,xf:fml:xaerominimap:xaero_minecraftserver,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:fastload.mixins.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:APP:balm.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23253!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,xf:fml:xaerominimap:xaero_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,xf:fml:xaerominimap:xaero_minecraftserver,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:fastload.mixins.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:APP:balm.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Linux (amd64) version 6.8.0-1027-azure
+	Java Version: 17.0.15, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 3503560192 bytes (3341 MiB) / 8103395328 bytes (7728 MiB) up to 13958643712 bytes (13312 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 7995.00
+	Virtual memory used (MB): 11036.31
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 2 total; -Xms2G -Xmx13G
+	Server Running: true
+	Player Count: 2 / 20; [ServerPlayer['Aqui_Si_Ban'/13953, l='ServerLevel[world]', x=-293.41, y=-17.77, z=-1639.92], ServerPlayer['blackdesfail'/106, l='ServerLevel[world]', x=-3755.76, y=87.00, z=-6093.68]]
+	Data Packs: vanilla, mod:saturn, mod:elytraslot, mod:fastload (incompatible), mod:mutantmonsters (incompatible), mod:endertrigon, mod:additionalentityattributes (incompatible), mod:playeranimator (incompatible), mod:xlpackets (incompatible), mod:jei (incompatible), mod:pehkui (incompatible), mod:connectivity (incompatible), mod:caelus (incompatible), mod:apoli (incompatible), mod:sophisticatedcore (incompatible), mod:rubidium (incompatible), mod:waystones (incompatible), mod:ageofweapons, mod:clumps (incompatible), mod:xaeroworldmap (incompatible), mod:oresabovediamonds, mod:comforts, mod:citadel, mod:alexsmobs (incompatible), mod:yungsapi, mod:bno, mod:mixinextras (incompatible), mod:upgradednetherite_items (incompatible), mod:sophisticatedbackpacks (incompatible), mod:cataclysm_delight, mod:starlight (incompatible), mod:balm (incompatible), mod:cataclysm_weaponery, mod:betterfortresses, mod:cloth_config (incompatible), mod:oresdropmores, mod:forge, mod:upgradednetherite (incompatible), mod:alltheores (incompatible), mod:homing_ender_eye, mod:tenshilib (incompatible), mod:amplifiednether, mod:bcc (incompatible), mod:terrablender, mod:bettercombat (incompatible), mod:netherportalspread, mod:mixinsquared (incompatible), mod:gildednetherite (incompatible), mod:spectrelib (incompatible), mod:smoothboot (incompatible), mod:lionfishapi, mod:calio (incompatible), mod:reeses_sodium_options (incompatible), mod:origins_plus_plus (incompatible), mod:cataclysm, mod:curios, mod:origins (incompatible), mod:xaerominimap (incompatible), mod:collective, mod:canary, mod:endlessbiomes, mod:upgradedcore (incompatible), mod:pluto, mod:appleskin, mod:lootr (incompatible), mod:upgradednetherite_ultimate (incompatible), mod:cupboard (incompatible), mod:flib (incompatible), mod:puzzleslib (incompatible), mod:rubidium_extra (incompatible), mod:packetfixer (incompatible), mod:improvedmobs (incompatible), mod:nbc_mr (incompatible), mod:armortoolsores, mod:enderite (incompatible), mod:betteradvancements (incompatible), mod:easymagic (incompatible), mod:artifacts, mod:bookshelf (incompatible), mod:carryon (incompatible), mod:corpse (incompatible), mod:farmersdelight, mod:enchantmenttransfer, mod:alexsdelight, mod:toms_storage (incompatible), mod:expandability (incompatible)
+	World Generation: Stable
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
+	ModLauncher: 10.0.8+10.0.8+main.0ef7e830
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.3.jar eventbus PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.8.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		saturn-mc1.19.2-0.1.4.jar                         |Saturn                        |saturn                        |0.1.4               |DONE      |Manifest: NOSIGNATURE
+		elytraslot-forge-6.1.2+1.19.2.jar                 |Elytra Slot                   |elytraslot                    |6.1.2+1.19.2        |DONE      |Manifest: NOSIGNATURE
+		Fastload-Reforged-mc1.19.2-3.4.0.jar              |Fastload-Reforged             |fastload                      |3.4.0               |DONE      |Manifest: NOSIGNATURE
+		MutantMonsters-v4.0.6-1.19.2-Forge.jar            |Mutant Monsters               |mutantmonsters                |4.0.6               |DONE      |Manifest: 9a:09:85:98:65:c4:8c:11:c5:49:f6:d6:33:23:39:df:8d:b4:ff:92:84:b8:bd:a5:83:9f:ac:7f:2a:d1:4b:6a
+		endertrigon-1.0.jar                               |Ender Trigon                  |endertrigon                   |1.0                 |DONE      |Manifest: NOSIGNATURE
+		additionalentityattributes-forge-1.19-1.0.1+1.19.j|Additional Entity Attributes  |additionalentityattributes    |1.0.1+1.19          |DONE      |Manifest: NOSIGNATURE
+		player-animation-lib-forge-1.0.2.jar              |Player Animator               |playeranimator                |1.0.2               |DONE      |Manifest: NOSIGNATURE
+		EasyMagic-v4.3.3-1.19.2-Forge.jar                 |Easy Magic                    |easymagic                     |4.3.3               |DONE      |Manifest: 9a:09:85:98:65:c4:8c:11:c5:49:f6:d6:33:23:39:df:8d:b4:ff:92:84:b8:bd:a5:83:9f:ac:7f:2a:d1:4b:6a
+		xlpackets-1.18.2-2.1.jar                          |XL Packets                    |xlpackets                     |1.18.2-2.1          |DONE      |Manifest: NOSIGNATURE
+		jei-1.19.2-forge-11.8.1.1034.jar                  |Just Enough Items             |jei                           |11.8.1.1034         |DONE      |Manifest: NOSIGNATURE
+		Pehkui-3.8.2+1.19.2-forge.jar                     |Pehkui                        |pehkui                        |3.8.2+1.19.2-forge  |DONE      |Manifest: NOSIGNATURE
+		connectivity-1.19.2-4.6.jar                       |Connectivity Mod              |connectivity                  |1.19.2-4.6          |DONE      |Manifest: NOSIGNATURE
+		caelus-forge-1.19.2-3.0.0.6.jar                   |Caelus API                    |caelus                        |1.19.2-3.0.0.6      |DONE      |Manifest: NOSIGNATURE
+		apoli-forge-1.19.2-2.6.1.7.jar                    |Apoli                         |apoli                         |1.19.2-2.6.1.7      |DONE      |Manifest: NOSIGNATURE
+		sophisticatedcore-1.19.2-0.6.4.730.jar            |Sophisticated Core            |sophisticatedcore             |1.19.2-0.6.4.730    |DONE      |Manifest: NOSIGNATURE
+		rubidium-mc1.19.2-0.6.2c.jar                      |Rubidium                      |rubidium                      |0.6.2c              |DONE      |Manifest: NOSIGNATURE
+		waystones-forge-1.19.2-11.4.2.jar                 |Waystones                     |waystones                     |11.4.2              |DONE      |Manifest: NOSIGNATURE
+		AgeOfWeapons-Reforged-1.19.x-(v.0.15.2).jar       |Age of Weapons - Reforged     |ageofweapons                  |0.15.2              |DONE      |Manifest: NOSIGNATURE
+		Clumps-forge-1.19.2-9.0.0+14.jar                  |Clumps                        |clumps                        |9.0.0+14            |DONE      |Manifest: NOSIGNATURE
+		XaerosWorldMap_1.39.9_Forge_1.19.1.jar            |Xaero's World Map             |xaeroworldmap                 |1.39.9              |DONE      |Manifest: NOSIGNATURE
+		oresabovediamonds-9.0.2.jar                       |Ores Above Diamonds           |oresabovediamonds             |9.0.2               |DONE      |Manifest: NOSIGNATURE
+		comforts-forge-6.0.7+1.19.2.jar                   |Comforts                      |comforts                      |6.0.7+1.19.2        |DONE      |Manifest: NOSIGNATURE
+		citadel-2.1.4-1.19.jar                            |Citadel                       |citadel                       |2.1.4               |DONE      |Manifest: NOSIGNATURE
+		alexsmobs-1.21.1.jar                              |Alex's Mobs                   |alexsmobs                     |1.21.1              |DONE      |Manifest: NOSIGNATURE
+		artifacts-1.19.2-5.0.6.jar                        |Artifacts                     |artifacts                     |1.19.2-5.0.6        |DONE      |Manifest: NOSIGNATURE
+		YungsApi-1.19.2-Forge-3.8.10.jar                  |YUNG's API                    |yungsapi                      |1.19.2-Forge-3.8.10 |DONE      |Manifest: NOSIGNATURE
+		BasicNetherOres-1.19.2-8.2.1.jar                  |Basic Nether Ores             |bno                           |8.2.1               |DONE      |Manifest: NOSIGNATURE
+		mixinextras-forge-0.3.6.jar                       |MixinExtras                   |mixinextras                   |0.3.6               |DONE      |Manifest: NOSIGNATURE
+		upgradednetherite_items-1.19.2-4.1.0.2-release.jar|Upgraded Netherite : Items    |upgradednetherite_items       |1.19.2-4.1.0.2-relea|DONE      |Manifest: NOSIGNATURE
+		Bookshelf-Forge-1.19.2-16.3.20.jar                |Bookshelf                     |bookshelf                     |16.3.20             |DONE      |Manifest: eb:c4:b1:67:8b:f9:0c:db:dc:4f:01:b1:8e:61:64:39:4c:10:85:0b:a6:c4:c7:48:f0:fa:95:f2:cb:08:3a:e5
+		sophisticatedbackpacks-1.19.2-3.20.2.1035.jar     |Sophisticated Backpacks       |sophisticatedbackpacks        |1.19.2-3.20.2.1035  |DONE      |Manifest: NOSIGNATURE
+		CataclysmDelight-1.19.2-1.0.0.jar                 |cataclysm_delight             |cataclysm_delight             |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		starlight-1.1.1+forge.cf5b10b.jar                 |Starlight                     |starlight                     |1.1.1+forge.a3aea74 |DONE      |Manifest: NOSIGNATURE
+		balm-forge-1.19.2-4.6.0.jar                       |Balm                          |balm                          |4.6.0               |DONE      |Manifest: NOSIGNATURE
+		CataclysmWeaponery1.0.3-1.19.2.jar                |Cataclysm Weaponery           |cataclysm_weaponery           |1.0.3               |DONE      |Manifest: NOSIGNATURE
+		carryon-forge-1.19.2-2.1.2.23.jar                 |Carry On                      |carryon                       |2.1.2.23            |DONE      |Manifest: NOSIGNATURE
+		YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar|YUNG's Better Nether Fortresse|betterfortresses              |1.19.2-Forge-1.0.6  |DONE      |Manifest: NOSIGNATURE
+		cloth-config-8.3.134-forge.jar                    |Cloth Config v8 API           |cloth_config                  |8.3.134             |DONE      |Manifest: NOSIGNATURE
+		[FORGE]oresdropmores-1.3.0-1.19.2.jar             |Ores Drop Mores 3             |oresdropmores                 |1.3.0-1.19.2        |DONE      |Manifest: NOSIGNATURE
+		forge-1.19.2-43.4.2-universal.jar                 |Forge                         |forge                         |43.4.2              |DONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		upgradednetherite-1.19.2-5.1.0.9-release.jar      |Upgraded Netherite            |upgradednetherite             |1.19.2-5.1.0.9-relea|DONE      |Manifest: NOSIGNATURE
+		corpse-forge-1.19.2-1.0.17.jar                    |Corpse                        |corpse                        |1.19.2-1.0.17       |DONE      |Manifest: NOSIGNATURE
+		alltheores-2.0.2-1.19.2-43.1.3.jar                |AllTheOres                    |alltheores                    |2.0.2-1.19.2-43.1.3 |DONE      |Manifest: NOSIGNATURE
+		homing_ender_eye-1.19.2-1.4.0.jar                 |Homing Ender Eye              |homing_ender_eye              |1.4.0               |DONE      |Manifest: NOSIGNATURE
+		server-1.19.2-20220805.130853-srg.jar             |Minecraft                     |minecraft                     |1.19.2              |DONE      |Manifest: NOSIGNATURE
+		tenshilib-1.19.2-1.6.15-forge.jar                 |TenshiLib                     |tenshilib                     |1.19.2-1.6.15       |DONE      |Manifest: NOSIGNATURE
+		FarmersDelight-1.19.2-1.2.4.jar                   |Farmer's Delight              |farmersdelight                |1.19.2-1.2.4        |DONE      |Manifest: NOSIGNATURE
+		Amplified_Nether_1.19.3_v1.2.1.jar                |Amplified Nether              |amplifiednether               |1.2.1               |DONE      |Manifest: NOSIGNATURE
+		BetterCompatibilityChecker-1.0.10-build.50+mc1.19.|Better Compatibility Checker  |bcc                           |1.0.10-build.50+mc1.|DONE      |Manifest: NOSIGNATURE
+		TerraBlender-forge-1.19.2-2.0.1.136.jar           |TerraBlender                  |terrablender                  |2.0.1.136           |DONE      |Manifest: NOSIGNATURE
+		bettercombat-forge-1.7.1+1.19.jar                 |Better Combat                 |bettercombat                  |1.7.1+1.19          |DONE      |Manifest: NOSIGNATURE
+		netherportalspread-1.19.2-8.1.jar                 |Nether Portal Spread          |netherportalspread            |8.1                 |DONE      |Manifest: NOSIGNATURE
+		mixinsquared-forge-0.1.2-beta.6.jar               |MixinSquared                  |mixinsquared                  |0.1.2-beta.6        |DONE      |Manifest: NOSIGNATURE
+		GildedNetherite-CJ-forge-mc1.19x-1.0.2.jar        |Gilded Netherite              |gildednetherite               |1.0.2               |DONE      |Manifest: NOSIGNATURE
+		spectrelib-forge-0.12.8+1.19.2.jar                |SpectreLib                    |spectrelib                    |0.12.8+1.19.2       |DONE      |Manifest: NOSIGNATURE
+		smoothboot(reloaded)-mc1.19.2-0.0.4.jar           |Smooth Boot (Reloaded)        |smoothboot                    |0.0.4               |DONE      |Manifest: NOSIGNATURE
+		lionfishapi-1.8.jar                               |LionfishAPI                   |lionfishapi                   |1.8                 |DONE      |Manifest: NOSIGNATURE
+		enchantmenttransfer-0.0.6-1.19.2.jar              |Enchantment Transfer          |enchantmenttransfer           |0.0.6-1.19.2        |DONE      |Manifest: NOSIGNATURE
+		calio-forge-1.19.2-1.7.0.4.jar                    |Calio                         |calio                         |1.19.2-1.7.0.4      |DONE      |Manifest: NOSIGNATURE
+		TextruesRubidiumOptions-1.0.7-mc1.19.2.jar        |TexTrue's Rubidium Options    |reeses_sodium_options         |1.0.7-mc1.19.2      |DONE      |Manifest: NOSIGNATURE
+		origins-plus-plus-2.3.1-forge.jar                 |Origins++                     |origins_plus_plus             |2.3.1-forge         |DONE      |Manifest: NOSIGNATURE
+		L_Enders_Cataclysm-2.46-1.19.2.jar                |Cataclysm Mod                 |cataclysm                     |2.46                |DONE      |Manifest: NOSIGNATURE
+		curios-forge-1.19.2-5.1.6.4.jar                   |Curios API                    |curios                        |1.19.2-5.1.6.4      |DONE      |Manifest: NOSIGNATURE
+		origins-forge-1.19.2-1.7.1.7-all.jar              |Origins                       |origins                       |1.19.2-1.7.1.7      |DONE      |Manifest: NOSIGNATURE
+		Xaeros_Minimap_25.2.6_Forge_1.19.1.jar            |Xaero's Minimap               |xaerominimap                  |25.2.6              |DONE      |Manifest: NOSIGNATURE
+		collective-1.19.2-7.64.jar                        |Collective                    |collective                    |7.64                |DONE      |Manifest: NOSIGNATURE
+		canary-mc1.19.2-0.3.3.jar                         |Canary                        |canary                        |0.3.3               |DONE      |Manifest: NOSIGNATURE
+		EndlessBiomes 1.4s - 1.19.2 (Server-friendly).jar |EndlessBiomes                 |endlessbiomes                 |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		upgradedcore-1.19.2-4.1.0.1-release.jar           |Upgraded Core                 |upgradedcore                  |1.19.2-4.1.0.1-relea|DONE      |Manifest: NOSIGNATURE
+		pluto-mc1.19.2-0.0.9.jar                          |Pluto                         |pluto                         |0.0.9               |DONE      |Manifest: NOSIGNATURE
+		appleskin-forge-mc1.19-2.4.2.jar                  |AppleSkin                     |appleskin                     |2.4.2+mc1.19        |DONE      |Manifest: NOSIGNATURE
+		alexsdelight-1.4.1.jar                            |Alex's Delight                |alexsdelight                  |1.4.1               |DONE      |Manifest: NOSIGNATURE
+		lootr-forge-1.19-0.4.29.76.jar                    |Lootr                         |lootr                         |0.4.28.75           |DONE      |Manifest: NOSIGNATURE
+		upgradednetherite_ultimate-1.19.2-4.1.0.4-release.|Upgraded Netherite : Ultimerit|upgradednetherite_ultimate    |1.19.2-4.1.0.4-relea|DONE      |Manifest: NOSIGNATURE
+		cupboard-1.19.2-2.6.jar                           |Cupboard utilities            |cupboard                      |1.19.2-2.6          |DONE      |Manifest: NOSIGNATURE
+		flib-1.19.2-0.0.3.jar                             |flib                          |flib                          |1.19.2-0.0.3        |DONE      |Manifest: 1f:47:ac:b1:61:82:96:b8:47:19:16:d2:61:81:11:60:3a:06:4b:61:31:56:7d:44:31:1e:0c:6f:22:5b:4c:ed
+		PuzzlesLib-v4.4.3-1.19.2-Forge.jar                |Puzzles Lib                   |puzzleslib                    |4.4.3               |DONE      |Manifest: 9a:09:85:98:65:c4:8c:11:c5:49:f6:d6:33:23:39:df:8d:b4:ff:92:84:b8:bd:a5:83:9f:ac:7f:2a:d1:4b:6a
+		rubidium-extra-0.4.19+mc1.19.2-build.105.jar      |Rubidium Extra                |rubidium_extra                |0.4.19+mc1.19.2-buil|DONE      |Manifest: NOSIGNATURE
+		toms_storage-1.19-1.5.11.jar                      |Tom's Simple Storage Mod      |toms_storage                  |1.5.11              |DONE      |Manifest: NOSIGNATURE
+		packetfixer-3.1.2-1.18-1.20.4-merged.jar          |PacketFixer                   |packetfixer                   |3.1.2               |DONE      |Manifest: NOSIGNATURE
+		improvedmobs-1.19-1.11.0-forge.jar                |Improved Mobs Mod             |improvedmobs                  |1.19-1.11.0         |DONE      |Manifest: NOSIGNATURE
+		expandability-forge-7.0.0.jar                     |ExpandAbility                 |expandability                 |7.0.0               |DONE      |Manifest: NOSIGNATURE
+		nbc-all-1.0-1.16-1.19.4.jar                       |Netherite But Cheaper         |nbc_mr                        |1.0                 |DONE      |Manifest: NOSIGNATURE
+		1.8.1-1.19.2ATOp.jar                              |Armor, Tools & Ores+          |armortoolsores                |1.8.1               |DONE      |Manifest: NOSIGNATURE
+		Enderite-CJ-forge-mc1.19x-1.4.5.jar               |Enderite                      |enderite                      |1.4.5               |DONE      |Manifest: NOSIGNATURE
+		BetterAdvancements-1.19.2-0.2.2.142.jar           |Better Advancements           |betteradvancements            |0.2.2.142           |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: e0b84ea1-0e53-46c5-8efd-81270ccd85b8
+	FML: 43.4
+	Forge: net.minecraftforge:43.4.2

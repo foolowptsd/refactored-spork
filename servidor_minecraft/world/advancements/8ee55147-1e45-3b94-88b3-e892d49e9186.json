@@ -864,6 +864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-08 18:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-04 21:31:39 +0000"
@@ -1795,6 +1801,7 @@
       "minecraft:old_growth_pine_taiga": "2025-07-07 16:57:18 +0000",
       "minecraft:taiga": "2025-07-05 02:49:36 +0000",
       "minecraft:deep_ocean": "2025-07-08 01:53:56 +0000",
+      "minecraft:frozen_river": "2025-07-08 18:14:02 +0000",
       "minecraft:birch_forest": "2025-07-04 19:44:10 +0000",
       "minecraft:beach": "2025-07-05 04:15:17 +0000",
       "minecraft:dark_forest": "2025-07-05 02:05:15 +0000",
@@ -2268,6 +2275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-08 18:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-07-05 18:37:26 +0000"
@@ -2424,6 +2437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-08 18:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-07-04 21:31:39 +0000"
@@ -2554,6 +2573,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-07-04 22:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-08 18:33:43 +0000"
     },
     "done": true
   },
@@ -2938,6 +2963,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-07-08 16:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-08 18:17:21 +0000"
     },
     "done": true
   },
@@ -3351,6 +3382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-08 18:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-07-07 20:20:10 +0000"
@@ -3378,6 +3415,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-07-07 19:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-08 18:33:43 +0000"
     },
     "done": true
   },
@@ -3459,6 +3502,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-08 18:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 22:40:27 +0000"
@@ -3486,6 +3535,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-07-05 01:57:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-08 18:17:21 +0000"
     },
     "done": true
   },

@@ -1631,12 +1631,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-07-08 18:40:50 +0000",
       "minecraft:birch_forest": "2025-07-04 19:51:17 +0000",
       "minecraft:beach": "2025-07-05 20:18:47 +0000",
+      "minecraft:dark_forest": "2025-07-08 18:38:43 +0000",
       "minecraft:river": "2025-07-04 21:03:17 +0000",
       "minecraft:dripstone_caves": "2025-07-05 03:19:28 +0000",
       "minecraft:forest": "2025-07-04 19:48:40 +0000",
       "minecraft:ocean": "2025-07-07 19:35:33 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-08 18:39:24 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-07 19:34:38 +0000",
       "minecraft:meadow": "2025-07-04 21:04:28 +0000",
       "minecraft:plains": "2025-07-04 21:02:05 +0000"
@@ -2555,6 +2558,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-08 18:36:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-07-04 19:51:00 +0000"
@@ -2714,6 +2723,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-07-07 21:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-08 18:13:50 +0000"
     },
     "done": true
   },
@@ -3031,6 +3046,12 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-07-08 18:13:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-05 02:35:52 +0000"
@@ -3178,6 +3199,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-07-04 20:39:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-08 18:13:50 +0000"
     },
     "done": true
   },
