@@ -10714,3 +10714,203 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [08Jul2025 17:32:25.043] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
 [08Jul2025 17:32:25.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2025 17:32:25.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 17:35:51.859] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[08Jul2025 17:36:12.983] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[08Jul2025 17:36:41.893] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[08Jul2025 17:36:45.579] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[08Jul2025 17:36:45.604] [Worker-Main3/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08Jul2025 17:36:45.604] [Worker-Main3/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08Jul2025 17:36:45.605] [Worker-Main3/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08Jul2025 17:36:45.607] [Worker-Main3/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[08Jul2025 17:36:45.607] [Worker-Main3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[08Jul2025 17:36:45.607] [Worker-Main3/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[08Jul2025 17:36:45.607] [Worker-Main3/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[08Jul2025 17:36:45.607] [Worker-Main3/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[08Jul2025 17:36:46.613] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main58
+[08Jul2025 17:36:47.205] [Worker-Main58/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[08Jul2025 17:36:47.207] [Worker-Main58/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[08Jul2025 17:36:47.207] [Worker-Main58/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[08Jul2025 17:36:47.209] [Worker-Main58/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[08Jul2025 17:36:47.209] [Worker-Main58/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[08Jul2025 17:36:49.996] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[08Jul2025 17:36:56.261] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.AxolotlAiMixin from saturn.mixins.json into net.minecraft.world.entity.animal.axolotl.AxolotlAi
+[08Jul2025 17:37:14.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[08Jul2025 17:37:14.801] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[08Jul2025 17:37:14.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 17:37:14.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 17:37:14.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[08Jul2025 17:37:25.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 17:37:25.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 17:39:31.627] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[08Jul2025 17:42:24.876] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[08Jul2025 17:42:25.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 17:42:25.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 17:43:42.642] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[08Jul2025 17:43:51.164] [Worker-Main3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[08Jul2025 17:43:56.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=226, y=16, z=-13} BlockPos{x=225, y=15, z=-12}
+[08Jul2025 17:44:05.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=229, y=15, z=-16} BlockPos{x=228, y=16, z=-15}
+[08Jul2025 17:44:05.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=229, y=15, z=-16} BlockPos{x=228, y=16, z=-15}
+[08Jul2025 17:44:05.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=229, y=15, z=-16} BlockPos{x=228, y=16, z=-15}
+[08Jul2025 17:44:05.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=229, y=15, z=-16} BlockPos{x=228, y=16, z=-15}
+[08Jul2025 17:44:05.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=229, y=15, z=-16} BlockPos{x=228, y=16, z=-15}
+[08Jul2025 17:44:05.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=229, y=15, z=-16} BlockPos{x=228, y=16, z=-15}
+[08Jul2025 17:44:05.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=229, y=15, z=-16} BlockPos{x=228, y=16, z=-15}
+[08Jul2025 17:44:05.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=229, y=15, z=-16} BlockPos{x=228, y=16, z=-15}
+[08Jul2025 17:44:52.556] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[08Jul2025 17:44:58.429] [Worker-Main42/DEBUG] [mixin/]: Mixing allocations.do_nothing.GoatAiMixin from saturn.mixins.json into net.minecraft.world.entity.animal.goat.GoatAi
+[08Jul2025 17:46:05.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[08Jul2025 17:46:26.948] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34568, l='ServerLevel[world]', x=-2340.46, y=101.65, z=-5747.87] died, message: 'Villager tried to swim in lava'
+[08Jul2025 17:46:39.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=238, y=16, z=-62} BlockPos{x=238, y=15, z=-61}
+[08Jul2025 17:46:39.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=238, y=16, z=-62} BlockPos{x=238, y=15, z=-61}
+[08Jul2025 17:46:39.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=238, y=16, z=-62} BlockPos{x=238, y=15, z=-61}
+[08Jul2025 17:46:39.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=238, y=16, z=-62} BlockPos{x=238, y=15, z=-61}
+[08Jul2025 17:46:39.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=238, y=16, z=-62} BlockPos{x=238, y=15, z=-61}
+[08Jul2025 17:46:39.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=238, y=16, z=-62} BlockPos{x=238, y=15, z=-61}
+[08Jul2025 17:46:39.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=238, y=16, z=-62} BlockPos{x=238, y=15, z=-61}
+[08Jul2025 17:46:39.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=238, y=16, z=-62} BlockPos{x=238, y=15, z=-61}
+[08Jul2025 17:46:47.947] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2372, y=-51, z=-6005} but found not block entity block Block{minecraft:air} at location
+[08Jul2025 17:46:47.947] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2372, y=-51, z=-6005}
+[08Jul2025 17:47:25.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 17:47:25.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 17:47:33.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=16, z=-79} BlockPos{x=211, y=16, z=-81}
+[08Jul2025 17:47:33.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=16, z=-79} BlockPos{x=211, y=16, z=-81}
+[08Jul2025 17:47:33.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=16, z=-79} BlockPos{x=211, y=16, z=-81}
+[08Jul2025 17:47:33.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-76} BlockPos{x=207, y=16, z=-78}
+[08Jul2025 17:48:11.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=213, y=16, z=-62} BlockPos{x=213, y=14, z=-61}
+[08Jul2025 17:48:13.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=14, z=-61} BlockPos{x=207, y=14, z=-61}
+[08Jul2025 17:48:13.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=14, z=-61} BlockPos{x=207, y=15, z=-60}
+[08Jul2025 17:48:13.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=14, z=-61} BlockPos{x=207, y=15, z=-60}
+[08Jul2025 17:48:18.197] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[08Jul2025 17:48:19.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:19.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:19.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:19.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:20.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:21.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:21.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:48:21.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=15, z=-54} BlockPos{x=207, y=15, z=-53}
+[08Jul2025 17:49:06.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Taste the Rainbow]
+[08Jul2025 17:49:35.261] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[08Jul2025 17:49:51.620] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[08Jul2025 17:50:08.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Frosted Prison]
+[08Jul2025 17:50:56.450] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:56.551] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:56.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:56.749] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:56.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:56.949] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:57.448] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:57.550] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:57.647] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:57.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:57.847] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:57.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:58.548] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:58.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:58.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:58.849] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:58.952] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:59.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:59.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:59.649] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:59.748] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:59.850] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:50:59.949] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:00.051] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:00.648] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:00.749] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:00.850] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:00.948] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:01.048] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:01.149] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:01.651] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:01.748] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:01.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:01.949] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:02.048] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:02.149] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:02.749] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:02.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:02.949] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:03.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:03.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:03.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:03.748] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:03.847] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:03.948] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:04.048] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:04.148] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:04.249] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:04.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:04.949] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:05.050] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:05.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:05.248] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:05.349] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:05.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:05.948] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:06.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:06.148] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:06.248] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:06.349] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:06.951] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:07.055] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:07.161] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:07.266] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:07.395] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:07.456] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 17:51:29.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=73, z=-33} BlockPos{x=15, y=73, z=-32}
+[08Jul2025 17:51:33.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [Free Willy]
+[08Jul2025 17:51:38.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=75, z=-26} BlockPos{x=20, y=76, z=-25}
+[08Jul2025 17:51:38.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=75, z=-26} BlockPos{x=20, y=76, z=-25}
+[08Jul2025 17:51:38.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=75, z=-26} BlockPos{x=20, y=76, z=-25}
+[08Jul2025 17:51:38.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=75, z=-26} BlockPos{x=20, y=76, z=-25}
+[08Jul2025 17:51:38.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=75, z=-25} BlockPos{x=21, y=76, z=-25}
+[08Jul2025 17:51:41.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=80, z=-25} BlockPos{x=23, y=79, z=-25}
+[08Jul2025 17:52:25.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 17:52:25.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 17:52:25.292] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[08Jul2025 17:52:25.293] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[08Jul2025 17:52:55.344] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/46225, l='ServerLevel[world]', x=-3655.50, y=54.00, z=-6127.50]
+[08Jul2025 17:53:56.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=65, z=-154} BlockPos{x=126, y=64, z=-153}
+[08Jul2025 17:53:56.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=65, z=-154} BlockPos{x=126, y=64, z=-153}
+[08Jul2025 17:53:56.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=65, z=-154} BlockPos{x=126, y=64, z=-153}
+[08Jul2025 17:53:56.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=65, z=-154} BlockPos{x=126, y=64, z=-153}
+[08Jul2025 17:54:12.690] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[08Jul2025 17:55:05.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=167, y=80, z=-200} BlockPos{x=167, y=81, z=-203}
+[08Jul2025 17:56:09.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[08Jul2025 17:56:24.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! -10.234526493509321,-1.0717151994496987,3.7711722608712535
+[08Jul2025 17:57:25.038] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[08Jul2025 17:57:25.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 17:57:25.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 17:59:39.716] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[08Jul2025 17:59:39.716] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[08Jul2025 17:59:58.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [War Pigs]
+[08Jul2025 18:00:12.076] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[08Jul2025 18:00:12.076] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[08Jul2025 18:00:12.077] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[08Jul2025 18:00:12.077] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[08Jul2025 18:00:52.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was cursed by Aptrgangr
+[08Jul2025 18:02:01.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail drowned
+[08Jul2025 18:02:25.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 18:02:25.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 18:03:57.382] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
