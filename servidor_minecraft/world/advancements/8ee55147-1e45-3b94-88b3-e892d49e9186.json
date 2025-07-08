@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "enderite:recipes/combat/enderite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_leggings_smithing": "2025-07-08 17:02:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-04 22:07:57 +0000"
@@ -2108,6 +2114,12 @@
     },
     "done": true
   },
+  "enderite:recipes/combat/enderite_boots_smithing": {
+    "criteria": {
+      "has_netherite_boots_smithing": "2025-07-08 17:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2025-07-05 17:13:58 +0000"
@@ -3641,6 +3653,12 @@
     },
     "done": true
   },
+  "enderite:recipes/combat/enderite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_helmet_smithing": "2025-07-08 17:02:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-05 02:38:33 +0000"
@@ -3807,6 +3825,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-04 22:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-07-08 17:02:34 +0000"
     },
     "done": true
   },
