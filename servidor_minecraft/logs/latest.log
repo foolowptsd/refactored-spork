@@ -1586,3 +1586,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [08Jul2025 17:22:11.107] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@44517c0f
 [08Jul2025 17:22:11.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.244.41.13:43129] logged in with entity id 13953 at (227.32311983758183, 102.0, -492.11267872946894)
 [08Jul2025 17:22:11.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[08Jul2025 17:26:17.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has completed the challenge [Cover Me in Debris]
