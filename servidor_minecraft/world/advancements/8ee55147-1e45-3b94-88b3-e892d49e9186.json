@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/essences/feather_essence": {
+    "criteria": {
+      "has_feather": "2025-07-08 18:47:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-07-04 20:37:17 +0000"
@@ -269,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-08 19:05:15 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-07-04 21:04:22 +0000"
@@ -278,6 +290,12 @@
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-07-08 01:16:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-07-08 19:34:16 +0000"
     },
     "done": true
   },
@@ -296,6 +314,12 @@
   "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
       "has_polished_blackstone": "2025-07-08 16:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-08 20:00:32 +0000"
     },
     "done": true
   },
@@ -401,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-08 20:07:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 20:54:27 +0000"
@@ -422,6 +452,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-07-04 22:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-08 19:05:15 +0000"
     },
     "done": true
   },
@@ -452,6 +488,12 @@
   "alltheores:recipes/alltheores/raw_silver_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2025-07-05 02:30:15 +0000"
+    },
+    "done": true
+  },
+  "enderite:recipes/building_blocks/endercrystal_block_from_endercrystal_shard": {
+    "criteria": {
+      "has_endercrystal_shard": "2025-07-08 18:44:54 +0000"
     },
     "done": true
   },
@@ -803,6 +845,7 @@
       "minecraft:zombified_piglin": "2025-07-05 18:38:46 +0000",
       "minecraft:witch": "2025-07-05 03:11:08 +0000",
       "minecraft:wither_skeleton": "2025-07-07 19:01:08 +0000",
+      "minecraft:husk": "2025-07-08 19:01:30 +0000",
       "minecraft:cave_spider": "2025-07-08 01:17:27 +0000",
       "minecraft:enderman": "2025-07-04 20:42:48 +0000",
       "minecraft:zombie": "2025-07-04 20:52:49 +0000",
@@ -936,6 +979,12 @@
     },
     "done": true
   },
+  "enderite:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_endercrystal_shard": "2025-07-08 18:44:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-04 22:07:57 +0000"
@@ -1059,6 +1108,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-07-07 20:17:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-07-08 19:31:36 +0000"
     },
     "done": true
   },
@@ -1723,6 +1778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-08 20:00:32 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-07-04 19:43:55 +0000"
@@ -1744,6 +1805,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 22:40:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-08 18:47:35 +0000"
     },
     "done": true
   },
@@ -1803,8 +1870,13 @@
       "minecraft:deep_ocean": "2025-07-08 01:53:56 +0000",
       "minecraft:frozen_river": "2025-07-08 18:14:02 +0000",
       "minecraft:birch_forest": "2025-07-04 19:44:10 +0000",
+      "minecraft:windswept_hills": "2025-07-08 19:13:03 +0000",
+      "minecraft:bamboo_jungle": "2025-07-08 18:59:12 +0000",
+      "minecraft:savanna_plateau": "2025-07-08 19:16:43 +0000",
       "minecraft:beach": "2025-07-05 04:15:17 +0000",
       "minecraft:dark_forest": "2025-07-05 02:05:15 +0000",
+      "minecraft:stony_peaks": "2025-07-08 20:00:00 +0000",
+      "minecraft:sparse_jungle": "2025-07-08 18:58:27 +0000",
       "minecraft:river": "2025-07-04 20:41:27 +0000",
       "minecraft:lukewarm_ocean": "2025-07-08 17:40:11 +0000",
       "minecraft:snowy_plains": "2025-07-08 17:50:13 +0000",
@@ -1812,18 +1884,23 @@
       "minecraft:dripstone_caves": "2025-07-04 22:02:52 +0000",
       "minecraft:snowy_taiga": "2025-07-08 17:47:57 +0000",
       "minecraft:grove": "2025-07-08 17:45:47 +0000",
+      "minecraft:cold_ocean": "2025-07-08 18:52:22 +0000",
       "minecraft:forest": "2025-07-04 19:43:55 +0000",
       "minecraft:lush_caves": "2025-07-05 02:06:17 +0000",
       "minecraft:frozen_ocean": "2025-07-08 17:48:00 +0000",
+      "minecraft:desert": "2025-07-08 19:18:32 +0000",
       "minecraft:deep_frozen_ocean": "2025-07-08 17:48:14 +0000",
       "minecraft:ocean": "2025-07-07 22:41:48 +0000",
+      "minecraft:jungle": "2025-07-08 19:07:23 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-05 02:08:24 +0000",
       "minecraft:snowy_beach": "2025-07-08 17:50:07 +0000",
+      "minecraft:windswept_savanna": "2025-07-08 19:12:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-08 17:40:17 +0000",
       "minecraft:frozen_peaks": "2025-07-08 17:45:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-04 22:51:40 +0000",
       "minecraft:deep_dark": "2025-07-04 22:08:29 +0000",
       "minecraft:meadow": "2025-07-04 20:46:34 +0000",
+      "minecraft:savanna": "2025-07-08 19:00:16 +0000",
       "minecraft:plains": "2025-07-04 20:45:47 +0000"
     },
     "done": false
@@ -1973,6 +2050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-08 19:21:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-07 19:38:14 +0000"
@@ -2021,6 +2104,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2025-07-08 18:44:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-07-07 21:08:52 +0000"
@@ -2049,7 +2138,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-07 18:58:27 +0000",
       "minecraft:nether_wastes": "2025-07-05 18:37:27 +0000",
-      "minecraft:soul_sand_valley": "2025-07-07 18:51:55 +0000"
+      "minecraft:soul_sand_valley": "2025-07-07 18:51:55 +0000",
+      "minecraft:warped_forest": "2025-07-08 19:31:12 +0000"
     },
     "done": false
   },
@@ -2068,6 +2158,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-07-07 22:42:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-07-08 20:10:18 +0000"
     },
     "done": true
   },
@@ -2284,6 +2380,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-07-05 18:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-07-08 19:19:13 +0000"
     },
     "done": true
   },
@@ -2534,6 +2636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-08 20:00:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-07-05 18:37:05 +0000"
@@ -2660,6 +2768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-08 19:05:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-07-04 20:53:16 +0000"
@@ -2708,6 +2822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-08 19:05:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-04 20:35:18 +0000"
@@ -2726,6 +2846,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-08 18:49:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-07-07 22:42:54 +0000"
@@ -2735,6 +2861,18 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-04 22:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-08 19:21:22 +0000"
+    },
+    "done": true
+  },
+  "enderite:end/obtain_endercrystal_shard": {
+    "criteria": {
+      "has_endercrystal_shard": "2025-07-08 18:44:54 +0000"
     },
     "done": true
   },
@@ -3104,6 +3242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-08 20:00:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-04 21:17:59 +0000"
@@ -3346,6 +3490,12 @@
     },
     "done": true
   },
+  "enderite:recipes/tools/spyglass": {
+    "criteria": {
+      "has_endercrystal_shard": "2025-07-08 18:44:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-07-04 21:17:59 +0000"
@@ -3367,6 +3517,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-04 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-07-08 20:00:24 +0000"
     },
     "done": true
   },
@@ -3466,6 +3622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-07-08 19:21:21 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/raw_lead_from_block": {
     "criteria": {
       "has_item": "2025-07-05 03:00:31 +0000"
@@ -3541,6 +3703,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-07-08 18:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-08 19:05:15 +0000"
     },
     "done": true
   },
@@ -3667,6 +3835,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-07-08 16:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-08 18:49:24 +0000"
     },
     "done": true
   },
@@ -4073,6 +4247,12 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/essences/wither_essence": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-08 18:49:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-07-05 02:01:51 +0000"
@@ -4112,6 +4292,12 @@
   "upgradednetherite_ultimate:recipes/essences/ultimate_upgraded_netherite_ingot": {
     "criteria": {
       "has_netherite_ingot": "2025-07-08 15:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-08 19:05:15 +0000"
     },
     "done": true
   },
