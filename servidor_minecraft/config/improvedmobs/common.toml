@@ -11,7 +11,7 @@
 	#Example ["0-0.01","10-0.1","30-0"]
 	#-> So the difficulty increases by 0.01 every 2400 ticks (->0.1 per mc day since a mc day has 24000 ticks) till it reaches a difficulty of 10.
 	#Then it increases by 1 per mc day till it reaches 30 and then stops.
-	"Difficulty Increase" = ["0-0.1", "250-0"]
+	"Difficulty Increase" = ["0-0.1", "50-0"]
 	#Wether difficulty should only increase with at least one online players or not
 	"Ignore Players" = false
 	#If true will increase difficulty by the amount of time skipped. Else will only increase difficulty once.
@@ -132,7 +132,7 @@
 #Configs regarding mobs spawning with equipment
 [equipment]
 	#Blacklist items from whole mods. Add modid to prevent items from that mod being equipped. (For individual items use the equipment.json)
-	"Item Blacklist" = []
+	"Item Blacklist" = ["cataclysm:bone_reptile_chestplate", "cataclysm:cursium_chestplate", "cataclysm:cursium_leggings", "cataclysm:cursium_boots", "cataclysm:ignitium_chestplate", "cataclysm:ignitium_elytra_chestplate", "cataclysm:ignitium_leggings", "cataclysm:ignitium_boots", "cataclysm:bloom_stone_pauldrons"]
 	#Use blacklist as whitelist
 	"Item Whitelist" = false
 	#Blacklist for items mobs should never be able to use.
