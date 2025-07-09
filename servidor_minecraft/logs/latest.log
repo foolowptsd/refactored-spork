@@ -1538,3 +1538,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [09Jul2025 05:41:01.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Ancient Remnant
 [09Jul2025 05:50:07.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
 [09Jul2025 05:50:48.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved too quickly! -0.45556526575842327,5.175523587461171,17.3968007302729
+[09Jul2025 06:05:27.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[09Jul2025 06:09:06.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2421ms or 48 ticks behind
+[09Jul2025 06:10:01.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [Hot Tourist Destinations]
+[09Jul2025 06:10:03.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9, y=251, z=-61} BlockPos{x=9, y=249, z=-62}
