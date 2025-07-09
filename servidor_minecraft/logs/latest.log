@@ -1535,3 +1535,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [09Jul2025 05:30:11.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:42667] logged in with entity id 146 at (-42.76448682065287, 88.0, -105.6263306824883)
 [09Jul2025 05:30:11.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
 [09Jul2025 05:35:01.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved too quickly! -10.085234717683988,0.0,-0.7466972240154064
+[09Jul2025 05:41:01.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Ancient Remnant
