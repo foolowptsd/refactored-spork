@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-10 18:18:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-07-04 20:35:39 +0000"
@@ -251,9 +257,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-10 18:14:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/rice_bag": {
     "criteria": {
       "has_rice": "2025-07-05 20:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-10 18:18:02 +0000"
     },
     "done": true
   },
@@ -386,6 +404,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-07-08 19:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-10 18:18:02 +0000"
     },
     "done": true
   },
@@ -761,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-10 18:14:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-07-04 20:32:17 +0000"
@@ -883,6 +913,7 @@
       "minecraft:vindicator": "2025-07-10 17:56:41 +0000",
       "minecraft:spider": "2025-07-05 03:17:04 +0000",
       "minecraft:piglin_brute": "2025-07-08 17:59:16 +0000",
+      "minecraft:creeper": "2025-07-10 18:14:05 +0000",
       "minecraft:evoker": "2025-07-10 17:56:57 +0000",
       "minecraft:phantom": "2025-07-05 18:26:49 +0000",
       "minecraft:zombified_piglin": "2025-07-05 18:51:38 +0000",
@@ -997,9 +1028,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-10 18:14:53 +0000"
+    },
+    "done": true
+  },
   "enderite:recipes/building_blocks/hardened_end_stone_from_end_stone": {
     "criteria": {
       "has_end_stone": "2025-07-07 20:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-10 18:18:02 +0000"
     },
     "done": true
   },
@@ -1168,6 +1211,12 @@
   "alltheores:recipes/alltheores/platinum_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-07-07 21:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-10 18:14:53 +0000"
     },
     "done": true
   },
@@ -1592,6 +1641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-10 18:14:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 01:55:25 +0000"
@@ -1667,6 +1722,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-07 16:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-10 18:18:02 +0000"
     },
     "done": true
   },
@@ -2900,6 +2961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-10 18:14:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-07-04 22:37:02 +0000"
@@ -3170,6 +3237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-10 18:18:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-05 18:39:32 +0000"
@@ -3248,6 +3321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-10 18:18:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-07-05 20:22:35 +0000"
@@ -3257,6 +3336,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-07 16:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-10 18:14:53 +0000"
     },
     "done": true
   },
@@ -3353,6 +3438,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-06 22:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-10 18:14:53 +0000"
     },
     "done": true
   },
@@ -3802,6 +3893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-10 18:14:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-04 22:51:31 +0000"
@@ -3973,6 +4070,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-07-07 19:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-10 18:18:02 +0000"
     },
     "done": true
   },
@@ -4229,9 +4332,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-10 18:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-10 18:18:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-07-04 22:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-10 18:14:53 +0000"
     },
     "done": true
   },
@@ -4250,6 +4371,12 @@
   "upgradednetherite_ultimate:recipes/essences/ultimate_upgraded_netherite_ingot": {
     "criteria": {
       "has_netherite_ingot": "2025-07-07 22:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-10 18:14:53 +0000"
     },
     "done": true
   },
