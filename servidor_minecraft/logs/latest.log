@@ -1623,3 +1623,37 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10Jul2025 16:14:07.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> xaero-waypoint:golem:G:973:55:-2098:4:false:0:Internal-the-end-waypoints
 [10Jul2025 16:14:21.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Palette Swap]
 [10Jul2025 16:14:38.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [A Ruined Citadel]
+[10Jul2025 16:15:04.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Bounty Box]
+[10Jul2025 16:15:04.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has completed the challenge [Socialised Loot]
+[10Jul2025 16:15:41.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Hunt and Gather]
+[10Jul2025 16:16:18.361] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-497, y=28, z=85}
+[10Jul2025 16:16:22.229] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-571, y=38, z=139}
+[10Jul2025 16:16:38.809] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-841, y=22, z=17}
+[10Jul2025 16:18:15.675] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-47, y=33, z=-880}
+[10Jul2025 16:18:25.223] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=434, y=-1, z=-767}
+[10Jul2025 16:19:30.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! -15.190715929508443,-0.791601490838147,-8.880032004651184
+[10Jul2025 16:19:34.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> xaero-waypoint:mansion:M:448:67:-784:5:false:0:Internal-overworld-waypoints
+[10Jul2025 16:19:39.914] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=708, y=13, z=-906}
+[10Jul2025 16:19:39.915] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=709, y=13, z=-906}
+[10Jul2025 16:20:06.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved wrongly!
+[10Jul2025 16:20:19.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved wrongly!
+[10Jul2025 16:20:21.657] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=411, y=3, z=-1198}
+[10Jul2025 16:20:21.658] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=411, y=3, z=-1199}
+[10Jul2025 16:20:30.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved wrongly!
+[10Jul2025 16:20:35.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved wrongly!
+[10Jul2025 16:20:45.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved wrongly!
+[10Jul2025 16:20:46.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved wrongly!
+[10Jul2025 16:20:49.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved wrongly!
+[10Jul2025 16:20:52.353] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=396, y=-32, z=-1265}
+[10Jul2025 16:20:53.155] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=173, y=16, z=-1181}
+[10Jul2025 16:20:55.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved wrongly!
+[10Jul2025 16:20:56.375] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=143, y=-37, z=-1182}
+[10Jul2025 16:21:32.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved wrongly!
+[10Jul2025 16:21:38.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved wrongly!
+[10Jul2025 16:22:47.014] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-172, y=26, z=-1090}
+[10Jul2025 16:23:22.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved wrongly!
+[10Jul2025 16:24:13.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved wrongly!
+[10Jul2025 16:26:04.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Palette Swap]
+[10Jul2025 16:28:50.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Bounty Box]
+[10Jul2025 16:28:50.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [Socialised Loot]
+[10Jul2025 16:29:22.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> xaero-waypoint:Shared Location:S:38:47:-1532:15:false:0:Internal-the-end-waypoints

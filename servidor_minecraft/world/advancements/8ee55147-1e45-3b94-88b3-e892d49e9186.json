@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-07-10 16:14:38 +0000"
+    },
+    "done": true
+  },
   "enderite:recipes/misc/enderite_scrap_from_blasting_raw_enderite": {
     "criteria": {
       "has_raw_enderite": "2025-07-10 15:49:22 +0000"
@@ -188,6 +194,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-07-04 22:06:37 +0000"
+    },
+    "done": true
+  },
+  "lootr:1shulker": {
+    "criteria": {
+      "opened_shulker": "2025-07-10 16:28:50 +0000"
     },
     "done": true
   },
@@ -374,10 +386,11 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-07-05 03:15:43 +0000",
+      "opened_shulker": "2025-07-10 16:28:50 +0000",
       "opened_chest": "2025-07-04 21:04:22 +0000",
       "opened_cart": "2025-07-08 01:16:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/mason_workbench_upgrade": {
     "criteria": {
@@ -616,6 +629,12 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-08 15:38:36 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-07-10 16:26:04 +0000"
     },
     "done": true
   },
@@ -2755,6 +2774,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-07-10 16:22:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-07-05 18:12:13 +0000"
@@ -3267,6 +3292,12 @@
     },
     "done": true
   },
+  "enderite:recipes/misc/enderite_ingot": {
+    "criteria": {
+      "has_enderite_scrap": "2025-07-10 16:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-07-05 02:49:42 +0000"
@@ -3611,6 +3642,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-07-09 07:01:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-10 16:22:56 +0000"
     },
     "done": true
   },
