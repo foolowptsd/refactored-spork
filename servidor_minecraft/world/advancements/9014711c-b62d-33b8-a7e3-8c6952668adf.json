@@ -3475,6 +3475,12 @@
     },
     "done": true
   },
+  "enderite:recipes/misc/enderite_ingot_from_enderite_nugget": {
+    "criteria": {
+      "has_enderite_nugget": "2025-07-10 17:47:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-07-04 21:05:38 +0000"
