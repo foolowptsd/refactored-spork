@@ -1660,3 +1660,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10Jul2025 16:35:31.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail drowned
 [10Jul2025 16:35:54.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail fell out of the world
 [10Jul2025 16:36:14.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail tried to swim in lava
+[10Jul2025 16:48:30.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved wrongly!
+[10Jul2025 16:48:33.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[10Jul2025 16:48:42.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved wrongly!
+[10Jul2025 16:48:55.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved wrongly!
+[10Jul2025 16:48:56.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[10Jul2025 16:49:00.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[10Jul2025 16:49:14.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[10Jul2025 16:49:23.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[10Jul2025 16:49:34.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!

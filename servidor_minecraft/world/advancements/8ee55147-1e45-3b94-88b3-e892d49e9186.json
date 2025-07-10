@@ -596,6 +596,12 @@
     },
     "done": true
   },
+  "enderite:recipes/tools/enderite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_pickaxe_smithing": "2025-07-10 16:47:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-07-04 22:04:02 +0000"
