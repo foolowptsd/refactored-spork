@@ -1594,3 +1594,32 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10Jul2025 15:58:44.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Break On Through...]
 [10Jul2025 15:59:58.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Ender Distancing]
 [10Jul2025 16:00:10.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Race Against The Clock]
+[10Jul2025 16:05:12.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has completed the challenge [Centennial]
+[10Jul2025 16:06:50.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has reached the goal [A Noble Sacrifice]
+[10Jul2025 16:06:56.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has reached the goal [Volcanic Glass]
+[10Jul2025 16:07:35.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [The City at the End of the Game]
+[10Jul2025 16:12:13.466] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2914, y=-24, z=-2034}
+[10Jul2025 16:12:29.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [F*** THE PORTALS]
+[10Jul2025 16:12:29.819] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-2883, y=-43, z=-1848}
+[10Jul2025 16:12:29.820] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-2882, y=-42, z=-1848}
+[10Jul2025 16:12:29.820] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-2882, y=-43, z=-1848}
+[10Jul2025 16:12:29.821] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-2884, y=-42, z=-1848}
+[10Jul2025 16:12:29.822] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-2884, y=-43, z=-1848}
+[10Jul2025 16:12:29.822] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-2883, y=-42, z=-1848}
+[10Jul2025 16:12:29.825] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-2933, y=-37, z=-1807}
+[10Jul2025 16:12:29.826] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-2935, y=-38, z=-1807}
+[10Jul2025 16:12:29.826] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-2934, y=-37, z=-1807}
+[10Jul2025 16:12:29.826] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-2933, y=-38, z=-1807}
+[10Jul2025 16:12:29.832] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2809, y=-29, z=-1837}
+[10Jul2025 16:12:29.833] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2809, y=-29, z=-1836}
+[10Jul2025 16:12:29.833] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2890, y=-44, z=-1857}
+[10Jul2025 16:12:29.834] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2890, y=-44, z=-1858}
+[10Jul2025 16:12:29.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! 4.407185972699722,4.534937460189347,-7.799001286477505
+[10Jul2025 16:12:29.839] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2728, y=-22, z=-1708}
+[10Jul2025 16:12:29.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27251ms or 545 ticks behind
+[10Jul2025 16:12:29.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved too quickly! -300.5,-2.0,-199.5
+[10Jul2025 16:12:36.068] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3051, y=-54, z=-2175}
+[10Jul2025 16:13:35.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [A Ruined Citadel]
+[10Jul2025 16:14:07.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> xaero-waypoint:golem:G:973:55:-2098:4:false:0:Internal-the-end-waypoints
+[10Jul2025 16:14:21.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Palette Swap]
+[10Jul2025 16:14:38.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [A Ruined Citadel]
