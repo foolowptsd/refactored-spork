@@ -1657,3 +1657,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10Jul2025 16:28:50.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Bounty Box]
 [10Jul2025 16:28:50.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [Socialised Loot]
 [10Jul2025 16:29:22.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> xaero-waypoint:Shared Location:S:38:47:-1532:15:false:0:Internal-the-end-waypoints
+[10Jul2025 16:35:31.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail drowned
+[10Jul2025 16:35:54.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail fell out of the world
+[10Jul2025 16:36:14.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail tried to swim in lava
