@@ -10198,3 +10198,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10Jul2025 15:39:41.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blackdesfail: Set own game mode to Survival Mode]
 [10Jul2025 15:39:54.704] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
 [10Jul2025 15:39:54.704] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[10Jul2025 15:42:31.344] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[10Jul2025 15:42:41.334] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[10Jul2025 15:42:44.238] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[10Jul2025 15:43:19.374] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[10Jul2025 15:43:19.673] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[10Jul2025 15:43:27.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 15:43:27.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 15:45:25.044] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[10Jul2025 15:46:13.485] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[10Jul2025 15:46:13.615] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[10Jul2025 15:46:14.021] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[10Jul2025 15:46:14.398] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[10Jul2025 15:46:23.809] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-63, y=-19, z=-1651}
+[10Jul2025 15:47:14.239] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[10Jul2025 15:47:17.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2471ms or 49 ticks behind
+[10Jul2025 15:48:29.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 15:48:29.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 15:49:06.916] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[10Jul2025 15:49:50.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has reached the goal [The Next Generation]
+[10Jul2025 15:51:04.055] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[10Jul2025 15:51:06.936] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[10Jul2025 15:51:32.120] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[10Jul2025 15:51:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Remote Getaway]
+[10Jul2025 15:51:34.205] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[10Jul2025 15:51:37.323] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[10Jul2025 15:51:39.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Race Against The Clock]
+[10Jul2025 15:52:06.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Pest Control]
+[10Jul2025 15:52:29.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Destroy The Child]
+[10Jul2025 15:52:52.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Destroy The Child]
+[10Jul2025 15:53:03.590] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[10Jul2025 15:53:03.594] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[10Jul2025 15:53:03.739] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[10Jul2025 15:53:06.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has reached the goal [A Soul for a Soul]
+[10Jul2025 15:53:29.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 15:53:29.416] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[10Jul2025 15:53:29.416] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[10Jul2025 15:53:29.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 15:53:57.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Should've Gone for the Head]

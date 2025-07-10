@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-07-10 15:52:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-07-05 02:46:04 +0000"
@@ -302,6 +308,12 @@
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-08 19:32:20 +0000"
+    },
+    "done": true
+  },
+  "enderite:recipes/misc/enderite_scrap_from_blasting_raw_enderite": {
+    "criteria": {
+      "has_raw_enderite": "2025-07-10 15:48:57 +0000"
     },
     "done": true
   },
@@ -356,6 +368,12 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-08 19:32:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/mysterious_worm": {
+    "criteria": {
+      "mysterious_worm": "2025-07-10 15:52:29 +0000"
     },
     "done": true
   },
@@ -422,6 +440,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-05 02:28:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_aluminum_from_block": {
+    "criteria": {
+      "has_item": "2025-07-10 15:47:37 +0000"
     },
     "done": true
   },
@@ -936,6 +960,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-07 21:19:52 +0000"
+    },
+    "done": true
+  },
+  "enderite:recipes/misc/enderite_scrap_from_smelting_raw_enderite": {
+    "criteria": {
+      "has_raw_enderite": "2025-07-10 15:48:57 +0000"
     },
     "done": true
   },
@@ -1892,6 +1922,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-08 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-07-10 15:49:50 +0000"
     },
     "done": true
   },
@@ -2893,6 +2929,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-07-08 18:13:50 +0000"
+    },
+    "done": true
+  },
+  "enderite:recipes/building_blocks/raw_enderite_block_from_raw_enderite": {
+    "criteria": {
+      "has_raw_enderite": "2025-07-10 15:48:57 +0000"
     },
     "done": true
   },
