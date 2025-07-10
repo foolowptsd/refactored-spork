@@ -11766,3 +11766,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10Jul2025 19:03:56.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Jul2025 19:03:56.662] [IO-Worker-222/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-223
 [10Jul2025 19:03:56.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 19:08:56.656] [IO-Worker-221/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-224
+[10Jul2025 19:08:56.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 19:08:56.659] [IO-Worker-221/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-225
+[10Jul2025 19:08:56.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 19:08:56.711] [IO-Worker-221/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-226
+[10Jul2025 19:11:02.652] [IO-Worker-224/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-227
+[10Jul2025 19:12:41.546] [Worker-Main2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main2 shutdown
+[10Jul2025 19:13:22.940] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main228
+[10Jul2025 19:13:22.944] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-229
+[10Jul2025 19:13:22.944] [IO-Worker-229/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-230
+[10Jul2025 19:13:56.657] [IO-Worker-230/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-231
+[10Jul2025 19:13:56.658] [IO-Worker-230/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-232
+[10Jul2025 19:13:56.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 19:13:56.662] [IO-Worker-231/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-233
+[10Jul2025 19:13:56.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 19:14:38.104] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main1 shutdown
+[10Jul2025 19:16:39.737] [Worker-Main228/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main234
+[10Jul2025 19:17:03.640] [IO-Worker-233/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-235
