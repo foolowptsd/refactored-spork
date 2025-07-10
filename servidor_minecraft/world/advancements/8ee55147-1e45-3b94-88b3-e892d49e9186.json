@@ -1327,6 +1327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-10 17:07:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-07-04 22:23:25 +0000"
@@ -1615,6 +1621,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-07-10 17:06:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-07-04 20:35:06 +0000"
@@ -1708,6 +1720,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 20:54:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rope": {
+    "criteria": {
+      "has_straw": "2025-07-10 17:06:24 +0000"
     },
     "done": true
   },
@@ -1900,6 +1918,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-07-04 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-07-10 17:06:24 +0000"
     },
     "done": true
   },
@@ -2462,6 +2486,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-07-10 17:06:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-07-05 02:50:10 +0000"
@@ -2840,6 +2870,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas": {
+    "criteria": {
+      "has_straw": "2025-07-10 17:06:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-07-04 21:05:40 +0000"
@@ -2879,6 +2915,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-04 22:56:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-07-10 17:06:24 +0000"
     },
     "done": true
   },
@@ -3379,6 +3421,12 @@
   "alltheores:recipes/alltheores/peridot_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/peridot]_ingot": "2025-07-04 22:07:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-07-10 17:06:24 +0000"
     },
     "done": true
   },
@@ -4316,6 +4364,7 @@
     "criteria": {
       "sugar_cane": "2025-07-06 22:18:44 +0000",
       "nether_wart": "2025-07-07 22:37:48 +0000",
+      "wheat": "2025-07-10 17:06:41 +0000",
       "carrot": "2025-07-05 16:59:21 +0000"
     },
     "done": false
@@ -4827,6 +4876,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-04 20:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-10 17:07:02 +0000"
     },
     "done": true
   },
