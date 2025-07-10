@@ -2774,6 +2774,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-07-10 19:22:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-05 02:01:51 +0000"
