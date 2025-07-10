@@ -1730,3 +1730,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10Jul2025 17:54:24.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> yo aun me demoro un rato yo creo que lo mejor sera que te chetes en lo que puedas
 [10Jul2025 17:55:12.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> voy a ir a la mansion a ver si consigo totems
 [10Jul2025 17:55:21.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ok
+[10Jul2025 18:11:49.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
