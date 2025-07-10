@@ -10955,3 +10955,46 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10Jul2025 18:37:20.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> pues puse stun y ahi me salio porque sabia que existia
 [10Jul2025 18:37:32.765] [IO-Worker-190/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-191
 [10Jul2025 18:37:32.789] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-192
+[10Jul2025 18:37:42.639] [IO-Worker-191/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-193
+[10Jul2025 18:38:26.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> porfin se me quito
+[10Jul2025 18:38:56.687] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-194
+[10Jul2025 18:38:56.688] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-195
+[10Jul2025 18:38:56.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 18:38:56.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 18:40:39.800] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-196
+[10Jul2025 18:40:53.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Applied effect Call Of Void to Aqui_Si_Ban]
+[10Jul2025 18:41:08.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> te voy a quitar el op amigo
+[10Jul2025 18:41:12.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> abuso de poder
+[10Jul2025 18:41:27.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> abuso de poder el tuyo
+[10Jul2025 18:42:32.557] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-197
+[10Jul2025 18:42:32.562] [IO-Worker-196/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-199
+[10Jul2025 18:42:32.562] [IO-Worker-197/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-198
+[10Jul2025 18:42:32.563] [IO-Worker-199/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-200
+[10Jul2025 18:42:43.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> muchacho ahora que?
+[10Jul2025 18:42:52.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> sabes que ven i ayudame porfa
+[10Jul2025 18:43:00.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> donde estas?
+[10Jul2025 18:43:10.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ve al techo del nether
+[10Jul2025 18:43:13.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ahy te paso cord
+[10Jul2025 18:43:28.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> y como llego ahi?
+[10Jul2025 18:43:36.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> escalera y enderpel
+[10Jul2025 18:43:46.955] [IO-Worker-200/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-201
+[10Jul2025 18:43:47.039] [IO-Worker-200/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-202
+[10Jul2025 18:43:47.039] [IO-Worker-197/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-203
+[10Jul2025 18:43:56.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 18:43:56.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 18:43:56.891] [IO-Worker-203/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-204
+[10Jul2025 18:43:56.891] [IO-Worker-201/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-205
+[10Jul2025 18:44:07.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> y trae comida porfa
+[10Jul2025 18:44:45.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=50, y=115, z=-47} BlockPos{x=51, y=116, z=-47}
+[10Jul2025 18:45:14.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:14.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:14.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:14.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:14.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:14.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:15.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:15.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:15.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:15.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:15.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:47:25.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> xaero-waypoint:Shared Location:S:14:252:-53:1:false:0:Internal-the-nether-waypoints

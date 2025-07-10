@@ -1747,3 +1747,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10Jul2025 18:36:12.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Applied effect Stun to blackdesfail]
 [10Jul2025 18:36:40.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> se puso a ver todos lo efectos o como mierda sabias que existia eso
 [10Jul2025 18:37:20.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> pues puse stun y ahi me salio porque sabia que existia
+[10Jul2025 18:38:26.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> porfin se me quito
+[10Jul2025 18:40:53.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aqui_Si_Ban: Applied effect Call Of Void to Aqui_Si_Ban]
+[10Jul2025 18:41:08.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> te voy a quitar el op amigo
+[10Jul2025 18:41:12.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> abuso de poder
+[10Jul2025 18:41:27.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> abuso de poder el tuyo
+[10Jul2025 18:42:43.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> muchacho ahora que?
+[10Jul2025 18:42:52.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> sabes que ven i ayudame porfa
+[10Jul2025 18:43:00.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> donde estas?
+[10Jul2025 18:43:10.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ve al techo del nether
+[10Jul2025 18:43:13.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ahy te paso cord
+[10Jul2025 18:43:28.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> y como llego ahi?
+[10Jul2025 18:43:36.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> escalera y enderpel
+[10Jul2025 18:44:07.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> y trae comida porfa
+[10Jul2025 18:44:45.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=50, y=115, z=-47} BlockPos{x=51, y=116, z=-47}
+[10Jul2025 18:45:14.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:14.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:14.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:14.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:14.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:14.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:15.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:15.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:15.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:15.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:45:15.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=118, z=-45} BlockPos{x=50, y=118, z=-45}
+[10Jul2025 18:47:25.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> xaero-waypoint:Shared Location:S:14:252:-53:1:false:0:Internal-the-nether-waypoints
