@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-09 15:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-07-05 02:50:10 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-07-04 21:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-09 15:34:49 +0000"
     },
     "done": true
   },
@@ -365,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-07-09 07:13:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-07-05 02:50:03 +0000"
@@ -587,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-09 15:26:03 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/raw_nickel_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-07-07 20:48:29 +0000"
@@ -656,6 +680,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/carpenter_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-09 06:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-09 15:26:24 +0000"
     },
     "done": true
   },
@@ -797,6 +827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-09 15:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-04 21:01:51 +0000"
@@ -895,6 +931,7 @@
       "minecraft:wither_skeleton": "2025-07-07 19:01:08 +0000",
       "minecraft:husk": "2025-07-08 19:01:30 +0000",
       "minecraft:cave_spider": "2025-07-08 01:17:27 +0000",
+      "minecraft:piglin": "2025-07-09 06:59:25 +0000",
       "minecraft:enderman": "2025-07-04 20:42:48 +0000",
       "minecraft:zombie": "2025-07-04 20:52:49 +0000",
       "minecraft:zombie_villager": "2025-07-04 21:16:20 +0000"
@@ -1207,6 +1244,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-07-09 15:34:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-07-07 17:10:35 +0000"
@@ -1468,6 +1511,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-07-07 21:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-09 15:26:23 +0000"
     },
     "done": true
   },
@@ -1942,6 +1991,7 @@
       "minecraft:beach": "2025-07-05 04:15:17 +0000",
       "minecraft:dark_forest": "2025-07-05 02:05:15 +0000",
       "minecraft:stony_peaks": "2025-07-08 20:00:00 +0000",
+      "minecraft:mangrove_swamp": "2025-07-09 15:44:34 +0000",
       "minecraft:sparse_jungle": "2025-07-08 18:58:27 +0000",
       "minecraft:river": "2025-07-04 20:41:27 +0000",
       "minecraft:lukewarm_ocean": "2025-07-08 17:40:11 +0000",
@@ -1950,9 +2000,11 @@
       "minecraft:dripstone_caves": "2025-07-04 22:02:52 +0000",
       "minecraft:snowy_taiga": "2025-07-08 17:47:57 +0000",
       "minecraft:grove": "2025-07-08 17:45:47 +0000",
+      "minecraft:swamp": "2025-07-09 15:49:10 +0000",
       "minecraft:cold_ocean": "2025-07-08 18:52:22 +0000",
       "minecraft:forest": "2025-07-04 19:43:55 +0000",
       "minecraft:lush_caves": "2025-07-05 02:06:17 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-09 15:42:02 +0000",
       "minecraft:frozen_ocean": "2025-07-08 17:48:00 +0000",
       "minecraft:desert": "2025-07-08 19:18:32 +0000",
       "minecraft:deep_frozen_ocean": "2025-07-08 17:48:14 +0000",
@@ -2104,6 +2156,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-09 07:01:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-04 20:37:17 +0000"
@@ -2149,6 +2207,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-07 17:15:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-09 15:30:08 +0000"
     },
     "done": true
   },
@@ -2211,9 +2275,10 @@
       "minecraft:crimson_forest": "2025-07-07 18:58:27 +0000",
       "minecraft:nether_wastes": "2025-07-05 18:37:27 +0000",
       "minecraft:soul_sand_valley": "2025-07-07 18:51:55 +0000",
-      "minecraft:warped_forest": "2025-07-08 19:31:12 +0000"
+      "minecraft:warped_forest": "2025-07-08 19:31:12 +0000",
+      "minecraft:basalt_deltas": "2025-07-09 06:10:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "upgradednetherite:recipes/essences/phantom_essence": {
     "criteria": {
@@ -2407,6 +2472,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-07-10 15:35:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-07-05 18:12:13 +0000"
@@ -2482,6 +2553,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-07-04 23:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-09 15:52:25 +0000"
     },
     "done": true
   },
@@ -2620,6 +2697,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-07-08 18:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-09 15:26:24 +0000"
     },
     "done": true
   },
@@ -2966,6 +3049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-09 15:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-04 22:06:37 +0000"
@@ -3296,6 +3385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-07-09 07:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-07-04 22:23:25 +0000"
@@ -3437,6 +3532,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-04 21:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-07-09 15:51:36 +0000"
     },
     "done": true
   },
@@ -3603,6 +3704,12 @@
       "carrot": "2025-07-05 16:59:21 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-07-09 07:04:13 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/paper": {
     "criteria": {
@@ -4018,6 +4125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-09 15:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-07-04 20:35:06 +0000"
@@ -4174,6 +4287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-09 15:26:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-07-05 02:12:44 +0000"
@@ -4220,6 +4339,12 @@
     "criteria": {
       "inv_changed-ender_pearl": "2025-07-05 01:55:48 +0000",
       "inv_changed-diamond": "2025-07-05 01:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-07-09 07:13:59 +0000"
     },
     "done": true
   },
@@ -4334,6 +4459,18 @@
   "alltheores:recipes/alltheores/iron_ore_hammer": {
     "criteria": {
       "has_iron_block": "2025-07-07 15:50:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-09 15:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-09 15:34:49 +0000"
     },
     "done": true
   },
