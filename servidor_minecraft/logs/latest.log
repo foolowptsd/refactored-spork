@@ -1551,3 +1551,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Jul2025 15:50:06.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
 [11Jul2025 15:51:00.919] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
 [11Jul2025 15:51:39.523] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[11Jul2025 15:55:19.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Fetch Me Their Souls!]
+[11Jul2025 16:11:38.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! -1.1458933041306523,-5.076315936117126,-9.692049474940518
+[11Jul2025 16:12:17.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[11Jul2025 16:17:54.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-137, y=36, z=-65} BlockPos{x=-137, y=35, z=-66}
+[11Jul2025 16:17:54.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-136, y=36, z=-66} BlockPos{x=-136, y=35, z=-66}
+[11Jul2025 16:17:57.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-135, y=35, z=-65} BlockPos{x=-137, y=34, z=-67}
+[11Jul2025 16:17:57.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-135, y=35, z=-65} BlockPos{x=-137, y=34, z=-67}
