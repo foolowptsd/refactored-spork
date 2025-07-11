@@ -1655,3 +1655,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Jul2025 18:01:19.954] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=40, y=-11, z=-1890}
 [11Jul2025 18:01:42.546] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-55, y=-29, z=-2005}
 [11Jul2025 18:01:42.546] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-54, y=-29, z=-2005}
+[11Jul2025 18:03:21.209] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-293, y=-22, z=-2213}
+[11Jul2025 18:04:15.193] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-284, y=18, z=-2302}
+[11Jul2025 18:04:15.193] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-284, y=18, z=-2300}
+[11Jul2025 18:04:15.272] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-309, y=-26, z=-2287}
+[11Jul2025 18:04:42.314] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=174, y=-38, z=-2140}
+[11Jul2025 18:05:36.409] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/114161, l='ServerLevel[world]', x=35.50, y=41.00, z=-2241.50]
+[11Jul2025 18:05:49.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [We Just Want our Hat Back]

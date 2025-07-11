@@ -512,6 +512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-07-11 18:05:59 +0000"
+    },
+    "done": true
+  },
   "enderite:recipes/misc/enderite_scrap_from_smelting_raw_enderite": {
     "criteria": {
       "has_raw_enderite": "2025-07-10 15:48:57 +0000"
@@ -1108,6 +1114,12 @@
   "upgradednetherite:recipes/essences/gold_essence": {
     "criteria": {
       "has_gold_ingot": "2025-07-05 02:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-11 18:06:08 +0000"
     },
     "done": true
   },
@@ -2654,6 +2666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-07-11 18:05:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-07 18:52:21 +0000"
@@ -2738,9 +2756,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-07-11 18:06:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-07-05 17:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-07-11 18:05:59 +0000"
     },
     "done": true
   },
@@ -2858,6 +2888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-07-11 18:05:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-07-04 20:32:17 +0000"
@@ -2951,8 +2987,10 @@
       "minecraft:blaze": "2025-07-07 19:10:40 +0000",
       "minecraft:pillager": "2025-07-10 21:53:03 +0000",
       "minecraft:skeleton": "2025-07-05 02:22:50 +0000",
+      "minecraft:elder_guardian": "2025-07-11 18:06:08 +0000",
       "minecraft:ravager": "2025-07-10 22:12:05 +0000",
       "minecraft:ghast": "2025-07-10 21:15:02 +0000",
+      "minecraft:guardian": "2025-07-11 18:08:34 +0000",
       "minecraft:vindicator": "2025-07-10 17:56:41 +0000",
       "minecraft:magma_cube": "2025-07-10 18:29:47 +0000",
       "minecraft:spider": "2025-07-05 03:17:04 +0000",
@@ -3302,6 +3340,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-07-11 18:05:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 21:34:22 +0000"
@@ -3429,6 +3473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-11 18:06:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
       "has_cobbled_deepslate_slab": "2025-07-05 17:53:50 +0000"
@@ -3524,6 +3574,7 @@
       "minecraft:old_growth_pine_taiga": "2025-07-10 20:14:32 +0000",
       "minecraft:mushroom_fields": "2025-07-10 20:18:02 +0000",
       "minecraft:taiga": "2025-07-08 18:40:50 +0000",
+      "minecraft:deep_ocean": "2025-07-11 18:04:13 +0000",
       "minecraft:frozen_river": "2025-07-08 18:55:12 +0000",
       "minecraft:birch_forest": "2025-07-04 19:51:17 +0000",
       "minecraft:windswept_hills": "2025-07-08 19:06:42 +0000",
@@ -3794,6 +3845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-11 18:06:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-07-05 02:41:25 +0000"
@@ -3935,6 +3992,7 @@
       "rotten_flesh": "2025-07-04 21:10:45 +0000",
       "suspicious_stew": "2025-07-05 20:22:35 +0000",
       "golden_carrot": "2025-07-07 20:21:35 +0000",
+      "cooked_chicken": "2025-07-11 18:01:46 +0000",
       "carrot": "2025-07-07 18:43:24 +0000"
     },
     "done": false
@@ -4050,6 +4108,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-04 20:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-07-11 18:05:59 +0000"
     },
     "done": true
   },
@@ -4478,6 +4542,12 @@
   "alltheores:recipes/alltheores/tin_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-07-04 20:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-07-11 18:05:59 +0000"
     },
     "done": true
   },
