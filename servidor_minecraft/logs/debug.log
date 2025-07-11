@@ -10261,3 +10261,72 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Jul2025 16:35:55.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [11Jul2025 16:36:09.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jul2025 16:36:09.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 16:39:18.818] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[11Jul2025 16:40:21.894] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[11Jul2025 16:41:09.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 16:41:09.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 16:41:48.884] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[11Jul2025 16:43:07.424] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[11Jul2025 16:45:10.335] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[11Jul2025 16:46:00.462] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[11Jul2025 16:46:09.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 16:46:09.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 16:46:28.940] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[11Jul2025 16:46:35.525] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_structure.PistonStructureResolverMixin from canary.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[11Jul2025 16:46:54.320] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[11Jul2025 16:47:23.676] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=90, y=-35, z=643}
+[11Jul2025 16:47:26.224] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=118, y=-24, z=593}
+[11Jul2025 16:47:26.225] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=118, y=-24, z=592}
+[11Jul2025 16:47:56.797] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=422, y=13, z=922}
+[11Jul2025 16:47:56.798] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=422, y=13, z=920}
+[11Jul2025 16:48:42.123] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[11Jul2025 16:50:33.094] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[11Jul2025 16:51:09.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 16:51:09.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 16:51:55.090] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[11Jul2025 16:52:03.680] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1482, y=-48, z=-950}
+[11Jul2025 16:52:11.995] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1309, y=-5, z=-800}
+[11Jul2025 16:52:12.755] [Worker-Main29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1343, y=-47, z=-964}
+[11Jul2025 16:52:13.935] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1264, y=-6, z=-824}
+[11Jul2025 16:52:16.292] [Worker-Main29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1215, y=32, z=-1020}
+[11Jul2025 16:52:16.488] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1215, y=-40, z=-776}
+[11Jul2025 16:52:17.582] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1187, y=29, z=-774}
+[11Jul2025 16:52:17.582] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1187, y=29, z=-773}
+[11Jul2025 16:52:21.389] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1319, y=-21, z=-1093}
+[11Jul2025 16:52:22.533] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1104, y=-41, z=-755}
+[11Jul2025 16:52:38.397] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=886, y=32, z=-1168}
+[11Jul2025 16:52:38.397] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=886, y=32, z=-1169}
+[11Jul2025 16:53:10.202] [Worker-Main12/DEBUG] [mixin/]: Mixing allocations.do_nothing.FrogAiMixin from saturn.mixins.json into net.minecraft.world.entity.animal.frog.FrogAi
+[11Jul2025 16:56:03.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> xaero-waypoint:mecanico:M:-2970:-25:550:12:false:0:Internal-overworld-waypoints
+[11Jul2025 16:56:09.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 16:56:09.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 16:56:25.763] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[11Jul2025 16:57:48.495] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[11Jul2025 16:59:01.933] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[11Jul2025 16:59:22.191] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[11Jul2025 16:59:46.039] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1137, y=37, z=57}
+[11Jul2025 16:59:46.040] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1134, y=37, z=56}
+[11Jul2025 16:59:48.103] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1144, y=-34, z=241}
+[11Jul2025 16:59:48.104] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1144, y=-34, z=239}
+[11Jul2025 16:59:50.891] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1249, y=28, z=210}
+[11Jul2025 16:59:51.677] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1260, y=-49, z=235}
+[11Jul2025 16:59:52.561] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1263, y=-29, z=157}
+[11Jul2025 16:59:55.553] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1294, y=22, z=283}
+[11Jul2025 16:59:55.553] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1292, y=22, z=283}
+[11Jul2025 16:59:59.094] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[11Jul2025 17:00:05.872] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1572, y=-28, z=222}
+[11Jul2025 17:00:05.873] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1570, y=-28, z=222}
+[11Jul2025 17:00:34.880] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/68358, l='ServerLevel[world]', x=-2111.50, y=43.00, z=435.50]
+[11Jul2025 17:00:38.704] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/68681, l='ServerLevel[world]', x=-2120.50, y=46.00, z=428.50]
+[11Jul2025 17:01:09.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 17:01:09.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 17:02:05.158] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/70971, l='ServerLevel[world]', x=-2822.50, y=41.00, z=467.50]
+[11Jul2025 17:02:45.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Ancient Civilization]
+[11Jul2025 17:06:05.770] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[11Jul2025 17:06:09.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 17:06:09.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 17:06:27.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [The Thing of Ancient Civilization]
+[11Jul2025 17:08:49.317] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[11Jul2025 17:08:50.927] [IO-Worker-88/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[11Jul2025 17:08:52.413] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[11Jul2025 17:09:24.926] [IO-Worker-90/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
