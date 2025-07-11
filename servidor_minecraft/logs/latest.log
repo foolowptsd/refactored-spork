@@ -1662,3 +1662,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Jul2025 18:04:42.314] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=174, y=-38, z=-2140}
 [11Jul2025 18:05:36.409] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/114161, l='ServerLevel[world]', x=35.50, y=41.00, z=-2241.50]
 [11Jul2025 18:05:49.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [We Just Want our Hat Back]
+[11Jul2025 18:15:27.258] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/117227, l='ServerLevel[world]', x=30.50, y=43.00, z=-2244.50]
+[11Jul2025 18:21:38.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> puto?
+[11Jul2025 18:21:44.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> cci
+[11Jul2025 18:21:47.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> espera
+[11Jul2025 18:21:51.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ya te llamo
