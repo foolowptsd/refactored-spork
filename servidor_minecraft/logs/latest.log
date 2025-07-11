@@ -1,71 +1,69 @@
-[11Jul2025 15:45:17.680] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-[11Jul2025 15:45:17.685] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[11Jul2025 15:45:20.422] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/refactored-spork/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[11Jul2025 15:45:21.153] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-spork/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[11Jul2025 15:45:21.155] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-spork/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[11Jul2025 15:45:21.155] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-spork/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[11Jul2025 15:45:21.156] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-spork/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[11Jul2025 15:45:21.484] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[11Jul2025 15:45:21.486] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[11Jul2025 15:45:24.022] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[11Jul2025 15:45:24.086] [main/ERROR] [mixin/]: Mixin config mixins.homing_ender_eye.json does not specify "minVersion" property
-[11Jul2025 15:45:24.196] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[11Jul2025 15:45:24.197] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[11Jul2025 15:45:24.473] [main/INFO] [com.abdelaziz.saturn.common.Saturn/]: Loaded Saturn config file with 4 configurable options
-[11Jul2025 15:45:24.489] [main/WARN] [mixin/]: Reference map 'xlpackets.refmap.json' for xlpackets.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 15:45:24.516] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
-[11Jul2025 15:45:24.725] [main/WARN] [mixin/]: Reference map 'oresdropmores.refmap.json' for oresdropmores.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 15:45:24.821] [main/WARN] [CanaryConfig/]: Mod 'pluto' attempted to override option 'mixin.world.player_chunk_tick', which doesn't exist, ignoring
-[11Jul2025 15:45:24.825] [main/INFO] [Canary/]: Loaded configuration file for Canary: 117 options available, 0 override(s) found
-[11Jul2025 15:45:24.836] [main/WARN] [mixin/]: Reference map 'flib.refmap.json' for flib.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 15:45:24.848] [main/INFO] [Sodium Extra Config/]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
-[11Jul2025 15:45:24.864] [main/INFO] [dev.tonimatas.packetfixer.mixins.v1_19_forge.MixinPlugin/]: Packet Fixer forge 1.19-1.19.2 has been applied successfully.
-[11Jul2025 15:45:27.701] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[11Jul2025 15:45:27.970] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
-[11Jul2025 15:45:33.470] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[11Jul2025 15:45:36.083] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod mutantmonsters
-[11Jul2025 15:45:36.085] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod easymagic
-[11Jul2025 15:45:36.719] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[11Jul2025 15:45:36.720] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[11Jul2025 15:45:36.721] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[11Jul2025 15:45:36.722] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[11Jul2025 15:45:36.723] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[11Jul2025 15:45:36.723] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[11Jul2025 15:45:36.724] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[11Jul2025 15:45:36.794] [modloading-worker-0/INFO] [com.leclowndu93150.corpsecurioscompat.Main/]: Hello from Corpse Curios Compat!
-[11Jul2025 15:45:36.894] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.19.2-2.6.1.7 has initialized. Ready to power up your game!
-[11Jul2025 15:45:36.978] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[11Jul2025 15:45:36.979] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[11Jul2025 15:45:37.021] [modloading-worker-0/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.v1_19.forge.mixins.json:v1_19_forge.ClientboundCustomPayloadPacketMixin->@ModifyConstant::packetfixer$newSize(I)I with priority 1000, already redirected by xlpackets.mixins.json:SCustomPayloadPacketMixin->@ModifyConstant::xlPackets(I)I with priority 1000
-[11Jul2025 15:45:37.022] [modloading-worker-0/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.v1_19.forge.mixins.json:v1_19_forge.ClientboundCustomPayloadPacketMixin->@ModifyConstant::packetfixer$newSize(I)I with priority 1000, already redirected by xlpackets.mixins.json:SCustomPayloadPacketMixin->@ModifyConstant::xlPackets(I)I with priority 1000
-[11Jul2025 15:45:37.093] [modloading-worker-0/INFO] [dev.wuffs.bcc.BCC/]: Better Compatibility Checker loading
-[11Jul2025 15:45:37.289] [modloading-worker-0/INFO] [Calio/]: Calio 1.19.2-1.7.0.4 initializing...
-[11Jul2025 15:45:37.357] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.19.2-1.7.1.7 is initializing. Have fun!
-[11Jul2025 15:45:37.468] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.64.
-[11Jul2025 15:45:37.812] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[11Jul2025 15:45:37.819] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod puzzleslib
-[11Jul2025 15:45:37.826] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[11Jul2025 15:45:39.089] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/structure_processor / minecraft:capped]' to registry
-[11Jul2025 15:45:39.090] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'com.min01.archaeology.init.ArchaeologyStructureProcessorType$$Lambda$9314/0x0000764f3d1b1418@4d66e88c' to registry
-[11Jul2025 15:45:40.526] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[11Jul2025 15:45:40.527] [Thread-0/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[11Jul2025 15:45:40.529] [Thread-0/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[11Jul2025 15:45:40.711] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
-[11Jul2025 15:45:40.720] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[11Jul2025 15:45:40.767] [modloading-worker-0/INFO] [bno/]: Setup Method Registered (PreInit)
-[11Jul2025 15:45:40.784] [modloading-worker-0/INFO] [thewakko.oresdropmores.OresDropMores/]: HELLO FROM COMMON SETUP
-[11Jul2025 15:45:40.784] [modloading-worker-0/INFO] [thewakko.oresdropmores.OresDropMores/]: DIRT BLOCK >> minecraft:dirt
-[11Jul2025 15:45:40.808] [modloading-worker-0/INFO] [dev.wuffs.bcc.BCC/]: Better Compatibility Checker setting up
-[11Jul2025 15:45:40.809] [modloading-worker-0/INFO] [craftjakob.gildednetherite.GildedNetherite/]: Gilded Netherite is detected!
-[11Jul2025 15:45:40.908] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
-[11Jul2025 15:45:40.913] [modloading-worker-0/INFO] [craftjakob.enderite.Enderite/]: Enderite is detected!
-[11Jul2025 15:45:40.921] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
-[11Jul2025 15:45:41.001] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [saturn] Starting version check at https://github.com/AbdElAziz333/Saturn/raw/mc1.20.1/dev/updates.json
-[11Jul2025 15:45:41.076] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[11Jul2025 15:45:41.078] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[11Jul2025 15:45:41.086] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[11Jul2025 15:45:41.087] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[11Jul2025 15:45:41.430] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[11Jul2025 22:10:05.555] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[11Jul2025 22:10:05.559] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[11Jul2025 22:10:08.340] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/refactored-spork/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[11Jul2025 22:10:09.088] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-spork/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[11Jul2025 22:10:09.089] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-spork/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[11Jul2025 22:10:09.090] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-spork/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[11Jul2025 22:10:09.091] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-spork/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[11Jul2025 22:10:09.414] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[11Jul2025 22:10:09.416] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[11Jul2025 22:10:11.963] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[11Jul2025 22:10:12.075] [main/ERROR] [mixin/]: Mixin config mixins.homing_ender_eye.json does not specify "minVersion" property
+[11Jul2025 22:10:12.193] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[11Jul2025 22:10:12.193] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[11Jul2025 22:10:12.441] [main/INFO] [com.abdelaziz.saturn.common.Saturn/]: Loaded Saturn config file with 4 configurable options
+[11Jul2025 22:10:12.456] [main/WARN] [mixin/]: Reference map 'xlpackets.refmap.json' for xlpackets.mixins.json could not be read. If this is a development environment you can ignore this message
+[11Jul2025 22:10:12.482] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
+[11Jul2025 22:10:12.639] [main/WARN] [mixin/]: Reference map 'oresdropmores.refmap.json' for oresdropmores.mixins.json could not be read. If this is a development environment you can ignore this message
+[11Jul2025 22:10:12.735] [main/WARN] [CanaryConfig/]: Mod 'pluto' attempted to override option 'mixin.world.player_chunk_tick', which doesn't exist, ignoring
+[11Jul2025 22:10:12.739] [main/INFO] [Canary/]: Loaded configuration file for Canary: 117 options available, 0 override(s) found
+[11Jul2025 22:10:12.748] [main/WARN] [mixin/]: Reference map 'flib.refmap.json' for flib.mixins.json could not be read. If this is a development environment you can ignore this message
+[11Jul2025 22:10:12.760] [main/INFO] [Sodium Extra Config/]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
+[11Jul2025 22:10:12.820] [main/INFO] [dev.tonimatas.packetfixer.mixins.v1_19_forge.MixinPlugin/]: Packet Fixer forge 1.19-1.19.2 has been applied successfully.
+[11Jul2025 22:10:15.415] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[11Jul2025 22:10:15.669] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
+[11Jul2025 22:10:21.034] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[11Jul2025 22:10:23.532] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod easymagic
+[11Jul2025 22:10:23.532] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod mutantmonsters
+[11Jul2025 22:10:24.006] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[11Jul2025 22:10:24.007] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[11Jul2025 22:10:24.007] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[11Jul2025 22:10:24.007] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[11Jul2025 22:10:24.007] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[11Jul2025 22:10:24.007] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[11Jul2025 22:10:24.008] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[11Jul2025 22:10:24.075] [modloading-worker-0/INFO] [com.leclowndu93150.corpsecurioscompat.Main/]: Hello from Corpse Curios Compat!
+[11Jul2025 22:10:24.144] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.19.2-2.6.1.7 has initialized. Ready to power up your game!
+[11Jul2025 22:10:24.203] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[11Jul2025 22:10:24.206] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[11Jul2025 22:10:24.243] [modloading-worker-0/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.v1_19.forge.mixins.json:v1_19_forge.ClientboundCustomPayloadPacketMixin->@ModifyConstant::packetfixer$newSize(I)I with priority 1000, already redirected by xlpackets.mixins.json:SCustomPayloadPacketMixin->@ModifyConstant::xlPackets(I)I with priority 1000
+[11Jul2025 22:10:24.244] [modloading-worker-0/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.v1_19.forge.mixins.json:v1_19_forge.ClientboundCustomPayloadPacketMixin->@ModifyConstant::packetfixer$newSize(I)I with priority 1000, already redirected by xlpackets.mixins.json:SCustomPayloadPacketMixin->@ModifyConstant::xlPackets(I)I with priority 1000
+[11Jul2025 22:10:24.347] [modloading-worker-0/INFO] [dev.wuffs.bcc.BCC/]: Better Compatibility Checker loading
+[11Jul2025 22:10:24.481] [modloading-worker-0/INFO] [Calio/]: Calio 1.19.2-1.7.0.4 initializing...
+[11Jul2025 22:10:24.570] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.19.2-1.7.1.7 is initializing. Have fun!
+[11Jul2025 22:10:24.673] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.64.
+[11Jul2025 22:10:24.849] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[11Jul2025 22:10:24.879] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod puzzleslib
+[11Jul2025 22:10:24.927] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[11Jul2025 22:10:25.851] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/structure_processor / minecraft:capped]' to registry
+[11Jul2025 22:10:25.852] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'com.min01.archaeology.init.ArchaeologyStructureProcessorType$$Lambda$9314/0x0000763d611bba98@6e0b41cb' to registry
+[11Jul2025 22:10:27.423] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[11Jul2025 22:10:27.618] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[11Jul2025 22:10:27.631] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[11Jul2025 22:10:27.684] [modloading-worker-0/INFO] [bno/]: Setup Method Registered (PreInit)
+[11Jul2025 22:10:27.732] [modloading-worker-0/INFO] [thewakko.oresdropmores.OresDropMores/]: HELLO FROM COMMON SETUP
+[11Jul2025 22:10:27.735] [modloading-worker-0/INFO] [thewakko.oresdropmores.OresDropMores/]: DIRT BLOCK >> minecraft:dirt
+[11Jul2025 22:10:27.749] [modloading-worker-0/INFO] [dev.wuffs.bcc.BCC/]: Better Compatibility Checker setting up
+[11Jul2025 22:10:27.750] [modloading-worker-0/INFO] [craftjakob.gildednetherite.GildedNetherite/]: Gilded Netherite is detected!
+[11Jul2025 22:10:27.807] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[11Jul2025 22:10:27.811] [modloading-worker-0/INFO] [craftjakob.enderite.Enderite/]: Enderite is detected!
+[11Jul2025 22:10:27.822] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[11Jul2025 22:10:27.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [saturn] Starting version check at https://github.com/AbdElAziz333/Saturn/raw/mc1.20.1/dev/updates.json
+[11Jul2025 22:10:27.901] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[11Jul2025 22:10:27.903] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[11Jul2025 22:10:27.917] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[11Jul2025 22:10:27.918] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[11Jul2025 22:10:28.128] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 9 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -80,31 +78,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[11Jul2025 15:45:41.431] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Starting version check at https://github.com/BumbleSoftware/Fastload/raw/Forge-1.20.1/updates.json
-[11Jul2025 15:45:41.553] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Found status: UP_TO_DATE Current: 3.4.0 Target: null
-[11Jul2025 15:45:41.554] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[11Jul2025 15:45:41.571] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 4.0.6 Target: null
-[11Jul2025 15:45:41.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[11Jul2025 15:45:41.589] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 4.3.3 Target: null
-[11Jul2025 15:45:41.589] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ageofweapons] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AgeOfWeapons.json
-[11Jul2025 15:45:41.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ageofweapons] Found status: UP_TO_DATE Current: 0.15.2 Target: null
-[11Jul2025 15:45:41.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.2
-[11Jul2025 15:45:41.974] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 9.0.0+14 Target: 9.0.0+14
-[11Jul2025 15:45:41.977] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [oresabovediamonds] Starting version check at https://raw.githubusercontent.com/Squidsword/OresAboveDiamonds/1.16.4/update.json
-[11Jul2025 15:45:41.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [oresabovediamonds] Found status: BETA Current: 9.0.2 Target: null
-[11Jul2025 15:45:41.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.19.2
-[11Jul2025 15:45:42.091] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 16.3.20 Target: 16.3.20
-[11Jul2025 15:45:42.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[11Jul2025 15:45:42.329] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
-[11Jul2025 15:45:42.329] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[11Jul2025 15:45:42.572] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11Jul2025 15:45:42.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.19.2-1.0.17 Target: null
-[11Jul2025 15:45:42.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Starting version check at https://github.com/AbdElAziz333/SmoothBoot-Reloaded/raw/mc1.20.1/dev/updates.json
-[11Jul2025 15:45:42.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Found status: UP_TO_DATE Current: 0.0.4 Target: null
-[11Jul2025 15:45:42.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
-[11Jul2025 15:45:42.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
-[11Jul2025 15:45:42.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pluto] Starting version check at https://github.com/AbdElAziz333/Pluto/blob/mc1.19.2/dev/updates.json
-[11Jul2025 15:45:43.124] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[11Jul2025 22:10:28.129] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Starting version check at https://github.com/BumbleSoftware/Fastload/raw/Forge-1.20.1/updates.json
+[11Jul2025 22:10:28.175] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Found status: UP_TO_DATE Current: 3.4.0 Target: null
+[11Jul2025 22:10:28.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[11Jul2025 22:10:28.192] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 4.0.6 Target: null
+[11Jul2025 22:10:28.193] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[11Jul2025 22:10:28.203] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 4.3.3 Target: null
+[11Jul2025 22:10:28.204] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ageofweapons] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AgeOfWeapons.json
+[11Jul2025 22:10:28.217] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ageofweapons] Found status: UP_TO_DATE Current: 0.15.2 Target: null
+[11Jul2025 22:10:28.217] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.2
+[11Jul2025 22:10:28.562] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 9.0.0+14 Target: 9.0.0+14
+[11Jul2025 22:10:28.563] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [oresabovediamonds] Starting version check at https://raw.githubusercontent.com/Squidsword/OresAboveDiamonds/1.16.4/update.json
+[11Jul2025 22:10:28.588] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [oresabovediamonds] Found status: BETA Current: 9.0.2 Target: null
+[11Jul2025 22:10:28.588] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.19.2
+[11Jul2025 22:10:28.689] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 16.3.20 Target: 16.3.20
+[11Jul2025 22:10:28.689] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[11Jul2025 22:10:28.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
+[11Jul2025 22:10:28.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[11Jul2025 22:10:29.325] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11Jul2025 22:10:29.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.19.2-1.0.17 Target: null
+[11Jul2025 22:10:29.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Starting version check at https://github.com/AbdElAziz333/SmoothBoot-Reloaded/raw/mc1.20.1/dev/updates.json
+[11Jul2025 22:10:29.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Found status: UP_TO_DATE Current: 0.0.4 Target: null
+[11Jul2025 22:10:29.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[11Jul2025 22:10:29.532] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[11Jul2025 22:10:29.532] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pluto] Starting version check at https://github.com/AbdElAziz333/Pluto/blob/mc1.19.2/dev/updates.json
+[11Jul2025 22:10:29.698] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 7 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -119,14 +117,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[11Jul2025 15:45:43.126] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[11Jul2025 15:45:43.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 4.4.3 Target: null
-[11Jul2025 15:45:43.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rubidium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
-[11Jul2025 15:45:43.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rubidium_extra] Found status: UP_TO_DATE Current: 0.4.19+mc1.19.2-build.105 Target: null
-[11Jul2025 15:45:43.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
-[11Jul2025 15:45:43.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.5.11 Target: 1.5.11
-[11Jul2025 15:45:43.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [nbc_mr] Starting version check at https://api.modrinth.comauth/init?url=https://modrinth.com/datapack/nbc/version/1.0/updates/hQNz0rXp/forge_updates.json
-[11Jul2025 15:45:43.400] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[11Jul2025 22:10:29.699] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[11Jul2025 22:10:29.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 4.4.3 Target: null
+[11Jul2025 22:10:29.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rubidium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[11Jul2025 22:10:29.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rubidium_extra] Found status: UP_TO_DATE Current: 0.4.19+mc1.19.2-build.105 Target: null
+[11Jul2025 22:10:29.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
+[11Jul2025 22:10:29.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.5.11 Target: 1.5.11
+[11Jul2025 22:10:29.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [nbc_mr] Starting version check at https://api.modrinth.comauth/init?url=https://modrinth.com/datapack/nbc/version/1.0/updates/hQNz0rXp/forge_updates.json
+[11Jul2025 22:10:29.998] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.net.ConnectException: null
 	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:574) ~[java.net.http:?]
 	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
@@ -193,13 +191,13 @@ Caused by: java.nio.channels.UnresolvedAddressException
 	at jdk.internal.net.http.HttpClientImpl.sendAsync(HttpClientImpl.java:659) ~[java.net.http:?]
 	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:553) ~[java.net.http:?]
 	... 5 more
-[11Jul2025 15:45:43.507] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/refactored-spork/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23251!/assets/.mcassetsroot' uses unexpected schema
-[11Jul2025 15:45:43.507] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/refactored-spork/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23251!/data/.mcassetsroot' uses unexpected schema
-[11Jul2025 15:45:43.598] [main/WARN] [net.minecraft.server.packs.repository.Pack/]: Couldn't get pack info for: net.minecraft.server.packs.ResourcePackFileNotFoundException: 'pack.mcmeta' in ResourcePack './world/datapacks/Nether_Height_384_Datapack.zip'
-[11Jul2025 15:45:45.409] [main/ERROR] [net.minecraft.world.level.storage.LevelStorageSource/]: WorldGenSettings: No key generator in MapLike[{"type":"minecraft:dimension_type","value":{"min_y":0,"height":384,"logical_height":384,"infiniburn":"minecraft:infiniburn_nether","effects":"minecraft:the_nether","ambient_light":0.1,"natural":false,"piglin_safe":true,"respawn_anchor_works":true,"bed_works":false,"has_raids":false,"has_skylight":false,"ultrawarm":true,"has_ceiling":false,"coordinate_scale":8.0,"monster_spawn_light_level":{"type":"minecraft:uniform","value":{"min_inclusive":0,"max_inclusive":7}},"monster_spawn_block_light_limit":0},"forge:registry_name":"minecraft:dimension"}]; Registry is already frozen (requested key: ResourceKey[minecraft:dimension_type / minecraft:dimension_type])
-[11Jul2025 15:45:45.753] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[11Jul2025 15:45:45.767] [main/INFO] [Calio/]: CDRM Initialized with 15 registries
-[11Jul2025 15:45:46.724] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/clump/from_raw_block
+[11Jul2025 22:10:30.270] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/refactored-spork/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23251!/assets/.mcassetsroot' uses unexpected schema
+[11Jul2025 22:10:30.271] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/refactored-spork/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23251!/data/.mcassetsroot' uses unexpected schema
+[11Jul2025 22:10:30.347] [main/WARN] [net.minecraft.server.packs.repository.Pack/]: Couldn't get pack info for: net.minecraft.server.packs.ResourcePackFileNotFoundException: 'pack.mcmeta' in ResourcePack './world/datapacks/Nether_Height_384_Datapack.zip'
+[11Jul2025 22:10:31.820] [main/ERROR] [net.minecraft.world.level.storage.LevelStorageSource/]: WorldGenSettings: No key generator in MapLike[{"type":"minecraft:dimension_type","value":{"min_y":0,"height":384,"logical_height":384,"infiniburn":"minecraft:infiniburn_nether","effects":"minecraft:the_nether","ambient_light":0.1,"natural":false,"piglin_safe":true,"respawn_anchor_works":true,"bed_works":false,"has_raids":false,"has_skylight":false,"ultrawarm":true,"has_ceiling":false,"coordinate_scale":8.0,"monster_spawn_light_level":{"type":"minecraft:uniform","value":{"min_inclusive":0,"max_inclusive":7}},"monster_spawn_block_light_limit":0},"forge:registry_name":"minecraft:dimension"}]; Registry is already frozen (requested key: ResourceKey[minecraft:dimension_type / minecraft:dimension_type])
+[11Jul2025 22:10:32.196] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[11Jul2025 22:10:32.210] [main/INFO] [Calio/]: CDRM Initialized with 15 registries
+[11Jul2025 22:10:33.228] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/clump/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -226,7 +224,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.730] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/dust/from_raw_ore
+[11Jul2025 22:10:33.233] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/dust/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -253,7 +251,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.740] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_raw_ore
+[11Jul2025 22:10:33.241] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -280,7 +278,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.750] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/nether_from_raw
+[11Jul2025 22:10:33.250] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/nether_from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -307,7 +305,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.759] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/slurry/from_raw_ore
+[11Jul2025 22:10:33.260] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/slurry/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -334,7 +332,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.761] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/dust/from_raw_block
+[11Jul2025 22:10:33.261] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/dust/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -361,7 +359,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.778] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/slurry/dirty/from_raw_block
+[11Jul2025 22:10:33.282] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/slurry/dirty/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -388,7 +386,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.781] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/dust/from_raw_ore
+[11Jul2025 22:10:33.287] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/dust/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -415,7 +413,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.782] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/shard/from_raw_block
+[11Jul2025 22:10:33.288] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/shard/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -442,7 +440,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.786] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/slurry/dirty/from_raw_block
+[11Jul2025 22:10:33.292] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/slurry/dirty/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -469,7 +467,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.787] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/shard/from_raw_ore
+[11Jul2025 22:10:33.293] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/shard/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -496,7 +494,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.793] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/clump/from_raw_block
+[11Jul2025 22:10:33.302] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/clump/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -523,7 +521,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.794] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_raw_block
+[11Jul2025 22:10:33.304] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -550,7 +548,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.795] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/slurry/from_raw_ore
+[11Jul2025 22:10:33.307] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/slurry/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -577,7 +575,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.803] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/clump/from_raw_ore
+[11Jul2025 22:10:33.313] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/clump/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -604,7 +602,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.813] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/shard/from_raw_ore
+[11Jul2025 22:10:33.319] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/shard/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -631,7 +629,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.820] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick
+[11Jul2025 22:10:33.325] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick
 com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -667,7 +665,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.827] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/from_raw
+[11Jul2025 22:10:33.335] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -694,7 +692,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.828] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/dust/from_raw_block
+[11Jul2025 22:10:33.336] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/dust/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -721,7 +719,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.831] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/slurry/dirty/from_raw_block
+[11Jul2025 22:10:33.340] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/slurry/dirty/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -748,7 +746,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.835] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/clump/from_raw_block
+[11Jul2025 22:10:33.344] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/clump/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -775,7 +773,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.842] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/dust/from_raw_ore
+[11Jul2025 22:10:33.349] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/dust/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -802,7 +800,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.846] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/shard/from_raw_ore
+[11Jul2025 22:10:33.352] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/shard/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -829,7 +827,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.848] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/shard/from_raw_block
+[11Jul2025 22:10:33.355] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/shard/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -856,7 +854,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.851] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/clump/from_raw_ore
+[11Jul2025 22:10:33.357] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/clump/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -883,7 +881,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.853] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/dust/from_raw_block
+[11Jul2025 22:10:33.358] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/dust/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -910,7 +908,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.857] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/clump/from_raw_ore
+[11Jul2025 22:10:33.362] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/clump/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -937,7 +935,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.858] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/dust/from_raw_ore
+[11Jul2025 22:10:33.364] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/dust/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -964,7 +962,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.864] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_shard
+[11Jul2025 22:10:33.370] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_shard
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -991,7 +989,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.865] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/shard/from_raw_block
+[11Jul2025 22:10:33.627] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/shard/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1018,7 +1016,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:46.867] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/shard/from_raw_block
+[11Jul2025 22:10:33.631] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/shard/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1045,7 +1043,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.459] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/clump/from_raw_ore
+[11Jul2025 22:10:33.635] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/clump/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1072,7 +1070,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.461] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/dust/from_raw_block
+[11Jul2025 22:10:33.638] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/dust/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1099,7 +1097,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.463] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/shard/from_raw_block
+[11Jul2025 22:10:33.641] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/shard/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1126,7 +1124,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.466] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/slurry/dirty_from_raw
+[11Jul2025 22:10:33.642] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/slurry/dirty_from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1153,7 +1151,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.468] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/dust/from_raw_ore
+[11Jul2025 22:10:33.644] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/dust/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1180,7 +1178,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.469] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/slurry/dirty/from_raw_block
+[11Jul2025 22:10:33.645] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/slurry/dirty/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1207,7 +1205,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.471] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/dust/from_raw_block
+[11Jul2025 22:10:33.648] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/dust/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1234,7 +1232,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.479] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/dust/from_raw_block
+[11Jul2025 22:10:33.657] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/dust/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1261,7 +1259,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.482] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/slurry/dirty_from_raw
+[11Jul2025 22:10:33.661] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/slurry/dirty_from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1288,7 +1286,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.482] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/slurry/dirty_from_raw
+[11Jul2025 22:10:33.662] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/slurry/dirty_from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1315,7 +1313,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.484] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/deepslate_from_raw
+[11Jul2025 22:10:33.664] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/deepslate_from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1342,7 +1340,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.485] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/slurry/dirty/from_raw_block
+[11Jul2025 22:10:33.665] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/slurry/dirty/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1369,7 +1367,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.486] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_delight:ignitium_knife_recipe
+[11Jul2025 22:10:33.667] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_delight:ignitium_knife_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'cataclysm_delight:ignitium_knife'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:154) ~[forge-1.19.2-43.4.2-universal.jar%23256!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:180) ~[forge-1.19.2-43.4.2-universal.jar%23256!/:?]
@@ -1400,7 +1398,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'cataclysm_delight:ignitium_kn
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.487] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/shard/from_raw_ore
+[11Jul2025 22:10:33.669] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/shard/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1427,7 +1425,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.492] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/clump/from_raw_block
+[11Jul2025 22:10:33.675] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/clump/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1454,7 +1452,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.497] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/shard/from_raw_ore
+[11Jul2025 22:10:33.680] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/shard/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1481,189 +1479,68 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[11Jul2025 15:45:47.502] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[11Jul2025 15:45:47.961] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement minecraft:adventure/craft_decorated_pot_using_only_sherds: Invalid criterion trigger: minecraft:recipe_crafted
-[11Jul2025 15:45:48.060] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2058 advancements
-[11Jul2025 15:45:50.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[11Jul2025 15:45:50.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[11Jul2025 15:45:50.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[11Jul2025 15:45:50.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[11Jul2025 15:45:50.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[11Jul2025 15:45:50.156] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[11Jul2025 15:45:50.234] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11Jul2025 15:45:50.235] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[11Jul2025 15:45:50.235] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11Jul2025 15:45:50.235] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[11Jul2025 15:45:50.257] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[11Jul2025 15:45:50.280] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
-[11Jul2025 15:45:50.282] [Thread-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[11Jul2025 15:45:50.377] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[11Jul2025 15:45:50.377] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[11Jul2025 15:45:50.428] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[11Jul2025 15:45:50.428] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[11Jul2025 15:45:50.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[11Jul2025 15:45:58.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[11Jul2025 15:46:05.650] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2654862 ms
-[11Jul2025 15:46:05.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.405s)! For help, type "help"
-[11Jul2025 15:46:05.725] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[11Jul2025 15:46:05.728] [Server thread/INFO] [thewakko.oresdropmores.OresDropMores/]: HELLO from server starting
-[11Jul2025 15:46:05.851] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 199028 bytes (in 20 string chunks with the size of 10000)
-[11Jul2025 15:46:05.853] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
-[11Jul2025 15:48:05.730] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[11Jul2025 15:48:05.814] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[11Jul2025 15:48:05.814] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[11Jul2025 15:48:05.903] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[11Jul2025 15:48:05.903] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[11Jul2025 15:48:05.990] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[11Jul2025 15:48:06.083] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[11Jul2025 15:48:06.084] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[11Jul2025 15:48:06.170] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[11Jul2025 15:48:06.171] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[11Jul2025 15:48:06.258] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[11Jul2025 15:48:06.258] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[11Jul2025 15:48:08.038] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[11Jul2025 15:48:08.425] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[11Jul2025 15:48:08.455] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[11Jul2025 15:48:08.735] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[11Jul2025 15:48:09.763] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[11Jul2025 15:48:09.955] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9679ee2
-[11Jul2025 15:48:09.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.244.41.13:53785] logged in with entity id 153 at (94.30000001192093, 70.0, -891.2074253943581)
-[11Jul2025 15:48:10.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
-[11Jul2025 15:48:13.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3626ms or 72 ticks behind
-[11Jul2025 15:50:02.445] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[11Jul2025 15:50:02.548] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[11Jul2025 15:50:02.566] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[11Jul2025 15:50:02.650] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[11Jul2025 15:50:02.650] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[11Jul2025 15:50:02.752] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[11Jul2025 15:50:02.764] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[11Jul2025 15:50:02.860] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[11Jul2025 15:50:02.860] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[11Jul2025 15:50:02.962] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[11Jul2025 15:50:03.002] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[11Jul2025 15:50:03.024] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[11Jul2025 15:50:04.624] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[11Jul2025 15:50:04.791] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[11Jul2025 15:50:04.797] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[11Jul2025 15:50:04.839] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[11Jul2025 15:50:06.540] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@58af6d3b
-[11Jul2025 15:50:06.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:34053] logged in with entity id 644 at (63.06937146910971, 86.0, -890.0500000119209)
-[11Jul2025 15:50:06.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
-[11Jul2025 15:51:00.919] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
-[11Jul2025 15:51:39.523] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
-[11Jul2025 15:55:19.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Fetch Me Their Souls!]
-[11Jul2025 16:11:38.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! -1.1458933041306523,-5.076315936117126,-9.692049474940518
-[11Jul2025 16:12:17.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
-[11Jul2025 16:17:54.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-137, y=36, z=-65} BlockPos{x=-137, y=35, z=-66}
-[11Jul2025 16:17:54.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-136, y=36, z=-66} BlockPos{x=-136, y=35, z=-66}
-[11Jul2025 16:17:57.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-135, y=35, z=-65} BlockPos{x=-137, y=34, z=-67}
-[11Jul2025 16:17:57.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-135, y=35, z=-65} BlockPos{x=-137, y=34, z=-67}
-[11Jul2025 16:19:00.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Withering Heights]
-[11Jul2025 16:19:00.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Withering Heights]
-[11Jul2025 16:20:51.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> a
-[11Jul2025 16:25:11.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Reality Can Be Whatever I Want]
-[11Jul2025 16:31:34.894] [Worker-Main29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-358, y=24, z=-1264}
-[11Jul2025 16:31:49.802] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-560, y=25, z=-1531}
-[11Jul2025 16:31:57.313] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-689, y=25, z=-1418}
-[11Jul2025 16:31:58.249] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-709, y=3, z=-1360}
-[11Jul2025 16:32:00.681] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-753, y=-1, z=-1514}
-[11Jul2025 16:32:00.681] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-753, y=-1, z=-1513}
-[11Jul2025 16:32:01.282] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-760, y=33, z=-1337}
-[11Jul2025 16:32:13.485] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-741, y=37, z=-1281}
-[11Jul2025 16:33:04.732] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1515, y=21, z=-1159}
-[11Jul2025 16:33:04.732] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1513, y=21, z=-1159}
-[11Jul2025 16:33:10.305] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1604, y=2, z=-1239}
-[11Jul2025 16:33:10.306] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1606, y=2, z=-1239}
-[11Jul2025 16:33:46.150] [Worker-Main29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2316, y=-8, z=-1185}
-[11Jul2025 16:34:05.184] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2616, y=4, z=-1285}
-[11Jul2025 16:34:05.994] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2640, y=-50, z=-1006}
-[11Jul2025 16:34:18.584] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2241, y=-26, z=-685}
-[11Jul2025 16:34:22.238] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2512, y=-36, z=-627}
-[11Jul2025 16:35:32.153] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
-[11Jul2025 16:35:32.167] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
-[11Jul2025 16:35:32.168] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
-[11Jul2025 16:35:55.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jul2025 16:47:23.676] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=90, y=-35, z=643}
-[11Jul2025 16:47:26.224] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=118, y=-24, z=593}
-[11Jul2025 16:47:26.225] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=118, y=-24, z=592}
-[11Jul2025 16:47:56.797] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=422, y=13, z=922}
-[11Jul2025 16:47:56.798] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=422, y=13, z=920}
-[11Jul2025 16:52:03.680] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1482, y=-48, z=-950}
-[11Jul2025 16:52:11.995] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1309, y=-5, z=-800}
-[11Jul2025 16:52:12.755] [Worker-Main29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1343, y=-47, z=-964}
-[11Jul2025 16:52:13.935] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1264, y=-6, z=-824}
-[11Jul2025 16:52:16.292] [Worker-Main29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1215, y=32, z=-1020}
-[11Jul2025 16:52:16.488] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1215, y=-40, z=-776}
-[11Jul2025 16:52:17.582] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1187, y=29, z=-774}
-[11Jul2025 16:52:17.582] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1187, y=29, z=-773}
-[11Jul2025 16:52:21.389] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1319, y=-21, z=-1093}
-[11Jul2025 16:52:22.533] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1104, y=-41, z=-755}
-[11Jul2025 16:52:38.397] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=886, y=32, z=-1168}
-[11Jul2025 16:52:38.397] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=886, y=32, z=-1169}
-[11Jul2025 16:56:03.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> xaero-waypoint:mecanico:M:-2970:-25:550:12:false:0:Internal-overworld-waypoints
-[11Jul2025 16:59:46.039] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1137, y=37, z=57}
-[11Jul2025 16:59:46.040] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1134, y=37, z=56}
-[11Jul2025 16:59:48.103] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1144, y=-34, z=241}
-[11Jul2025 16:59:48.104] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1144, y=-34, z=239}
-[11Jul2025 16:59:50.891] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1249, y=28, z=210}
-[11Jul2025 16:59:51.677] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1260, y=-49, z=235}
-[11Jul2025 16:59:52.561] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1263, y=-29, z=157}
-[11Jul2025 16:59:55.553] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1294, y=22, z=283}
-[11Jul2025 16:59:55.553] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1292, y=22, z=283}
-[11Jul2025 17:00:05.872] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1572, y=-28, z=222}
-[11Jul2025 17:00:05.873] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1570, y=-28, z=222}
-[11Jul2025 17:00:34.880] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/68358, l='ServerLevel[world]', x=-2111.50, y=43.00, z=435.50]
-[11Jul2025 17:00:38.704] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/68681, l='ServerLevel[world]', x=-2120.50, y=46.00, z=428.50]
-[11Jul2025 17:02:05.158] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/70971, l='ServerLevel[world]', x=-2822.50, y=41.00, z=467.50]
-[11Jul2025 17:02:45.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Ancient Civilization]
-[11Jul2025 17:06:27.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [The Thing of Ancient Civilization]
-[11Jul2025 17:14:16.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
-[11Jul2025 17:17:53.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has reached the goal [You Need a Mint]
-[11Jul2025 17:21:41.660] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=126, y=-35, z=1320}
-[11Jul2025 17:22:01.727] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-275, y=-37, z=1126}
-[11Jul2025 17:22:07.228] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-365, y=0, z=1349}
-[11Jul2025 17:22:20.440] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-560, y=-9, z=1390}
-[11Jul2025 17:22:20.440] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-560, y=-9, z=1388}
-[11Jul2025 17:22:22.234] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-589, y=-33, z=1275}
-[11Jul2025 17:22:37.170] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-515, y=6, z=1666}
-[11Jul2025 17:23:03.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/85485, l='ServerLevel[world]', x=-953.63, y=65.56, z=1666.72] died, message: 'Villager suffocated in a wall'
-[11Jul2025 17:25:08.938] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/90481, l='ServerLevel[world]', x=-2840.50, y=54.00, z=1739.50]
-[11Jul2025 17:35:13.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [It Spreads]
-[11Jul2025 17:35:14.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=89, z=-52} BlockPos{x=39, y=88, z=-52}
-[11Jul2025 17:35:19.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=86, z=-54} BlockPos{x=35, y=84, z=-56}
-[11Jul2025 17:35:19.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=86, z=-54} BlockPos{x=35, y=84, z=-56}
-[11Jul2025 17:35:19.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=86, z=-54} BlockPos{x=35, y=84, z=-56}
-[11Jul2025 17:36:04.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
-[11Jul2025 17:48:02.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> xaero-waypoint:Shared Location:S:-2998:-43:2404:2:false:0:Internal-overworld-waypoints
-[11Jul2025 17:48:18.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
-[11Jul2025 17:48:42.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> a
-[11Jul2025 17:49:15.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> perdon me llamaron
-[11Jul2025 17:49:18.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> que me desias
-[11Jul2025 17:50:17.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
-[11Jul2025 17:50:19.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
-[11Jul2025 17:50:21.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
-[11Jul2025 17:50:24.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
-[11Jul2025 17:50:27.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
-[11Jul2025 17:55:37.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [You da Bomby]
-[11Jul2025 18:00:39.323] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=33, y=-29, z=-1803}
-[11Jul2025 18:00:41.475] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=47, y=-44, z=-1823}
-[11Jul2025 18:00:41.476] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=47, y=-44, z=-1824}
-[11Jul2025 18:01:11.288] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=17, y=-21, z=-1845}
-[11Jul2025 18:01:16.888] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1, y=-20, z=-1885}
-[11Jul2025 18:01:17.039] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=52, y=-15, z=-1887}
-[11Jul2025 18:01:19.953] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=40, y=-11, z=-1891}
-[11Jul2025 18:01:19.954] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=40, y=-11, z=-1890}
-[11Jul2025 18:01:42.546] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-55, y=-29, z=-2005}
-[11Jul2025 18:01:42.546] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-54, y=-29, z=-2005}
-[11Jul2025 18:03:21.209] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-293, y=-22, z=-2213}
-[11Jul2025 18:04:15.193] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-284, y=18, z=-2302}
-[11Jul2025 18:04:15.193] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-284, y=18, z=-2300}
-[11Jul2025 18:04:15.272] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-309, y=-26, z=-2287}
-[11Jul2025 18:04:42.314] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=174, y=-38, z=-2140}
-[11Jul2025 18:05:36.409] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/114161, l='ServerLevel[world]', x=35.50, y=41.00, z=-2241.50]
-[11Jul2025 18:05:49.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [We Just Want our Hat Back]
-[11Jul2025 18:15:27.258] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/117227, l='ServerLevel[world]', x=30.50, y=43.00, z=-2244.50]
-[11Jul2025 18:21:38.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> puto?
-[11Jul2025 18:21:44.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> cci
-[11Jul2025 18:21:47.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> espera
-[11Jul2025 18:21:51.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ya te llamo
+[11Jul2025 22:10:33.684] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[11Jul2025 22:10:34.161] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement minecraft:adventure/craft_decorated_pot_using_only_sherds: Invalid criterion trigger: minecraft:recipe_crafted
+[11Jul2025 22:10:34.242] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2058 advancements
+[11Jul2025 22:10:36.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[11Jul2025 22:10:36.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[11Jul2025 22:10:36.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[11Jul2025 22:10:36.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[11Jul2025 22:10:36.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[11Jul2025 22:10:36.494] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[11Jul2025 22:10:36.574] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11Jul2025 22:10:36.574] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[11Jul2025 22:10:36.575] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11Jul2025 22:10:36.575] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[11Jul2025 22:10:36.601] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[11Jul2025 22:10:36.624] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
+[11Jul2025 22:10:36.625] [Thread-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
+[11Jul2025 22:10:36.626] [Thread-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
+[11Jul2025 22:10:36.725] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[11Jul2025 22:10:36.725] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[11Jul2025 22:10:36.806] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[11Jul2025 22:10:36.807] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[11Jul2025 22:10:36.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[11Jul2025 22:10:43.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[11Jul2025 22:10:50.765] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3753285 ms
+[11Jul2025 22:10:50.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.178s)! For help, type "help"
+[11Jul2025 22:10:50.843] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[11Jul2025 22:10:50.846] [Server thread/INFO] [thewakko.oresdropmores.OresDropMores/]: HELLO from server starting
+[11Jul2025 22:10:50.982] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 199028 bytes (in 20 string chunks with the size of 10000)
+[11Jul2025 22:10:50.984] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[11Jul2025 22:11:00.946] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[11Jul2025 22:11:01.035] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[11Jul2025 22:11:01.036] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[11Jul2025 22:11:01.131] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[11Jul2025 22:11:01.226] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[11Jul2025 22:11:01.226] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[11Jul2025 22:11:01.333] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[11Jul2025 22:11:01.340] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[11Jul2025 22:11:01.428] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[11Jul2025 22:11:01.429] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[11Jul2025 22:11:01.521] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[11Jul2025 22:11:01.522] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[11Jul2025 22:11:02.195] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[11Jul2025 22:11:02.359] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[11Jul2025 22:11:02.365] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[11Jul2025 22:11:02.421] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[11Jul2025 22:11:05.002] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[11Jul2025 22:11:05.108] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@52cdd95c
+[11Jul2025 22:11:05.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:57605] logged in with entity id 143 at (15.22139616907138, 222.0, -54.54871047335267)
+[11Jul2025 22:11:05.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[11Jul2025 22:11:07.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2555ms or 51 ticks behind
+[11Jul2025 22:13:21.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[11Jul2025 22:13:25.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
+[11Jul2025 22:13:25.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[11Jul2025 22:13:29.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Jul2025 22:13:29.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Jul2025 22:13:29.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Jul2025 22:13:29.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Jul2025 22:13:29.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Jul2025 22:13:29.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Jul2025 22:13:29.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Jul2025 22:13:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Jul2025 22:13:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Jul2025 22:13:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Jul2025 22:13:29.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Jul2025 22:13:29.768] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@614f1941
