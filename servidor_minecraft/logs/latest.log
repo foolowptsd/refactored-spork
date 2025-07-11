@@ -1644,3 +1644,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Jul2025 17:50:21.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
 [11Jul2025 17:50:24.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
 [11Jul2025 17:50:27.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[11Jul2025 17:55:37.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [You da Bomby]
+[11Jul2025 18:00:39.323] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=33, y=-29, z=-1803}
+[11Jul2025 18:00:41.475] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=47, y=-44, z=-1823}
+[11Jul2025 18:00:41.476] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=47, y=-44, z=-1824}
+[11Jul2025 18:01:11.288] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=17, y=-21, z=-1845}
+[11Jul2025 18:01:16.888] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1, y=-20, z=-1885}
+[11Jul2025 18:01:17.039] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=52, y=-15, z=-1887}
+[11Jul2025 18:01:19.953] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=40, y=-11, z=-1891}
+[11Jul2025 18:01:19.954] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=40, y=-11, z=-1890}
+[11Jul2025 18:01:42.546] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-55, y=-29, z=-2005}
+[11Jul2025 18:01:42.546] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-54, y=-29, z=-2005}
