@@ -758,6 +758,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/transmutation_table": {
+    "criteria": {
+      "sopa_de_macaco": "2025-07-11 16:25:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2025-07-05 18:32:26 +0000"
@@ -3847,6 +3853,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-07-11 16:19:00 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_monstrosity": {
     "criteria": {
       "netheritemonstrosity": "2025-07-10 21:27:07 +0000"
@@ -4013,6 +4025,12 @@
   "alltheores:recipes/alltheores/tin_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-07-04 20:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-07-11 16:19:18 +0000"
     },
     "done": true
   },
