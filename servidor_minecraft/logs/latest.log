@@ -1617,3 +1617,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Jul2025 17:02:05.158] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/70971, l='ServerLevel[world]', x=-2822.50, y=41.00, z=467.50]
 [11Jul2025 17:02:45.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Ancient Civilization]
 [11Jul2025 17:06:27.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [The Thing of Ancient Civilization]
+[11Jul2025 17:14:16.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[11Jul2025 17:17:53.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has reached the goal [You Need a Mint]
+[11Jul2025 17:21:41.660] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=126, y=-35, z=1320}
+[11Jul2025 17:22:01.727] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-275, y=-37, z=1126}
+[11Jul2025 17:22:07.228] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-365, y=0, z=1349}
+[11Jul2025 17:22:20.440] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-560, y=-9, z=1390}
+[11Jul2025 17:22:20.440] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-560, y=-9, z=1388}
+[11Jul2025 17:22:22.234] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-589, y=-33, z=1275}
+[11Jul2025 17:22:37.170] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-515, y=6, z=1666}
+[11Jul2025 17:23:03.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/85485, l='ServerLevel[world]', x=-953.63, y=65.56, z=1666.72] died, message: 'Villager suffocated in a wall'
+[11Jul2025 17:25:08.938] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/90481, l='ServerLevel[world]', x=-2840.50, y=54.00, z=1739.50]
+[11Jul2025 17:35:13.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [It Spreads]
+[11Jul2025 17:35:14.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=89, z=-52} BlockPos{x=39, y=88, z=-52}
+[11Jul2025 17:35:19.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=86, z=-54} BlockPos{x=35, y=84, z=-56}
+[11Jul2025 17:35:19.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=86, z=-54} BlockPos{x=35, y=84, z=-56}
+[11Jul2025 17:35:19.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=86, z=-54} BlockPos{x=35, y=84, z=-56}
+[11Jul2025 17:36:04.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!

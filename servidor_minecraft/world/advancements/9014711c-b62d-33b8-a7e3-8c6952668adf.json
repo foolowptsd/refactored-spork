@@ -458,6 +458,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-07-11 17:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-07-07 16:25:12 +0000"
@@ -509,6 +515,12 @@
   "enderite:recipes/misc/enderite_scrap_from_smelting_raw_enderite": {
     "criteria": {
       "has_raw_enderite": "2025-07-10 15:48:57 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/essences/ultimate_essence": {
+    "criteria": {
+      "has_wither_essence": "2025-07-11 17:16:34 +0000"
     },
     "done": true
   },
@@ -2855,6 +2867,12 @@
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2025-07-05 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-07-11 17:17:53 +0000"
     },
     "done": true
   },

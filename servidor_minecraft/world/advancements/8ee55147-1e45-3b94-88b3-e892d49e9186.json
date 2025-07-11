@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-11 17:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-07-04 21:16:21 +0000"
@@ -758,6 +764,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-07-11 17:06:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-07-05 18:12:13 +0000"
@@ -827,6 +839,12 @@
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2025-07-07 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-11 17:07:59 +0000"
     },
     "done": true
   },
@@ -1065,6 +1083,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-11 17:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-07 19:38:14 +0000"
@@ -1074,6 +1098,12 @@
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-07-04 21:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-07-11 17:35:13 +0000"
     },
     "done": true
   },
@@ -2162,6 +2192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-07-11 17:32:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-07-04 22:06:33 +0000"
@@ -2505,6 +2541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-11 17:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-07 19:38:14 +0000"
@@ -2844,6 +2886,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_magnet_upgrade": {
     "criteria": {
       "has_advanced_pickup_upgrade": "2025-07-09 06:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-11 17:07:59 +0000"
     },
     "done": true
   },
@@ -3230,6 +3278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-11 17:07:59 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/tin_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-07-07 22:45:33 +0000"
@@ -3542,6 +3596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-11 17:07:59 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/peridot_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/peridot]_ingot": "2025-07-04 22:07:06 +0000"
@@ -3663,6 +3723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-11 17:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
       "has_cobbled_deepslate_slab": "2025-07-05 16:44:22 +0000"
@@ -3780,6 +3846,7 @@
       "minecraft:old_growth_birch_forest": "2025-07-04 22:51:40 +0000",
       "minecraft:deep_dark": "2025-07-04 22:08:29 +0000",
       "minecraft:meadow": "2025-07-04 20:46:34 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-07-11 17:22:50 +0000",
       "minecraft:savanna": "2025-07-08 19:00:16 +0000",
       "minecraft:plains": "2025-07-04 20:45:47 +0000"
     },
@@ -3884,6 +3951,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "diamond_knife": "2025-07-08 18:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-11 17:07:59 +0000"
     },
     "done": true
   },
@@ -4154,6 +4227,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-04 22:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-11 17:07:59 +0000"
     },
     "done": true
   },
@@ -4540,6 +4619,12 @@
   "alltheores:recipes/alltheores/raw_platinum_from_block": {
     "criteria": {
       "has_item": "2025-07-05 02:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-11 17:07:59 +0000"
     },
     "done": true
   },
@@ -5020,6 +5105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-11 17:33:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 22:40:27 +0000"
@@ -5035,6 +5126,12 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-08 15:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-11 17:07:59 +0000"
     },
     "done": true
   },
