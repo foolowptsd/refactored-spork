@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-14 17:03:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-07-07 18:43:23 +0000"
@@ -1155,6 +1161,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/copper_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-14 17:03:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-07 19:38:14 +0000"
@@ -1798,6 +1810,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-07-04 22:56:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/copper_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-14 17:03:13 +0000"
     },
     "done": true
   },
@@ -2848,6 +2866,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/copper_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-14 17:03:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-04 22:07:57 +0000"
@@ -3085,6 +3109,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-07-07 21:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_the_recipe": "2025-07-14 17:03:21 +0000"
     },
     "done": true
   },
@@ -3329,6 +3359,12 @@
   "alexsmobs:alexsmobs/shattered_dimensional_carver": {
     "criteria": {
       "dimensional_carver": "2025-07-10 21:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-14 17:03:13 +0000"
     },
     "done": true
   },
@@ -4632,6 +4668,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-07-04 20:41:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-14 17:03:13 +0000"
     },
     "done": true
   },
