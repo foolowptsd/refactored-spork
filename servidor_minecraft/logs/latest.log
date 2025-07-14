@@ -1884,3 +1884,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [14Jul2025 16:09:08.877] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [14Jul2025 16:09:08.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [14Jul2025 16:09:09.076] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jul2025 16:14:48.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! -10.042367917160234,0.0,-0.9963393654379615
+[14Jul2025 16:17:21.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! 18.012122543051035,0.3824192079052864,-0.1333959887498395
+[14Jul2025 16:19:40.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! -10.310104190956665,0.0,0.085855822993949
