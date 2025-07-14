@@ -548,6 +548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-07-14 15:48:21 +0000"
+    },
+    "done": true
+  },
   "enderite:recipes/misc/enderite_scrap_from_smelting_raw_enderite": {
     "criteria": {
       "has_raw_enderite": "2025-07-10 15:49:22 +0000"
@@ -1915,6 +1921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-07-14 15:48:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-07-05 03:27:09 +0000"
@@ -2111,6 +2123,12 @@
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-07-09 07:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-07-14 15:48:21 +0000"
     },
     "done": true
   },
@@ -5228,6 +5246,12 @@
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2025-07-05 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-07-14 15:48:21 +0000"
     },
     "done": true
   },
