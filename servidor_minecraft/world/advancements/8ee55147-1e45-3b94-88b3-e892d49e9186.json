@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "comforts:hammock_red_from_white": {
+    "criteria": {
+      "has_hammock": "2025-07-14 16:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2025-07-07 20:29:05 +0000"
@@ -830,6 +836,12 @@
     },
     "done": true
   },
+  "comforts:hammock_yellow_from_white": {
+    "criteria": {
+      "has_hammock": "2025-07-14 16:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2025-07-05 17:14:08 +0000"
@@ -998,6 +1010,12 @@
     },
     "done": true
   },
+  "comforts:hammock_magenta_from_white": {
+    "criteria": {
+      "has_hammock": "2025-07-14 16:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-07-04 22:58:07 +0000"
@@ -1080,6 +1098,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-07-04 20:37:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple_from_white": {
+    "criteria": {
+      "has_hammock": "2025-07-14 16:36:26 +0000"
     },
     "done": true
   },
@@ -1315,6 +1339,12 @@
     },
     "done": true
   },
+  "comforts:hammock_cyan_from_white": {
+    "criteria": {
+      "has_hammock": "2025-07-14 16:36:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-05 02:25:44 +0000"
@@ -1462,6 +1492,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-07-04 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink_from_white": {
+    "criteria": {
+      "has_hammock": "2025-07-14 16:36:26 +0000"
     },
     "done": true
   },
@@ -1852,6 +1888,13 @@
   "farmersdelight:recipes/farmersdelight/rope": {
     "criteria": {
       "has_straw": "2025-07-10 17:06:24 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:hulk_smash": {
+    "criteria": {
+      "hammer_in_offhand": "2025-07-14 16:31:43 +0000",
+      "hammer_in_mainhand": "2025-07-14 16:31:43 +0000"
     },
     "done": true
   },
@@ -2420,6 +2463,12 @@
     },
     "done": true
   },
+  "comforts:hammock_brown_from_white": {
+    "criteria": {
+      "has_hammock": "2025-07-14 16:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-07-07 19:03:49 +0000"
@@ -2556,6 +2605,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-08 16:52:01 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green_from_white": {
+    "criteria": {
+      "has_hammock": "2025-07-14 16:36:26 +0000"
     },
     "done": true
   },
@@ -3247,6 +3302,12 @@
     },
     "done": true
   },
+  "comforts:hammock_gray_from_white": {
+    "criteria": {
+      "has_hammock": "2025-07-14 16:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-07-04 22:23:25 +0000"
@@ -3753,6 +3814,12 @@
     },
     "done": true
   },
+  "comforts:hammock_light_gray_from_white": {
+    "criteria": {
+      "has_hammock": "2025-07-14 16:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-07-05 18:12:10 +0000"
@@ -3798,6 +3865,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-07-04 20:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-07-14 16:45:30 +0000"
     },
     "done": true
   },
@@ -4586,6 +4659,12 @@
     },
     "done": true
   },
+  "comforts:hammock_black_from_white": {
+    "criteria": {
+      "has_hammock": "2025-07-14 16:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-07-04 20:37:17 +0000"
@@ -4664,6 +4743,12 @@
     },
     "done": true
   },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_hammock": "2025-07-14 16:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-05 02:50:10 +0000"
@@ -4679,6 +4764,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-09 06:01:04 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_hammock": "2025-07-14 16:36:26 +0000"
     },
     "done": true
   },
@@ -4850,6 +4941,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-07-05 02:01:51 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue_from_white": {
+    "criteria": {
+      "has_hammock": "2025-07-14 16:36:26 +0000"
     },
     "done": true
   },
@@ -5114,6 +5211,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 20:54:27 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue_from_white": {
+    "criteria": {
+      "has_hammock": "2025-07-14 16:36:26 +0000"
     },
     "done": true
   },

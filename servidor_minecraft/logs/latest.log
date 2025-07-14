@@ -1887,3 +1887,61 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [14Jul2025 16:14:48.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! -10.042367917160234,0.0,-0.9963393654379615
 [14Jul2025 16:17:21.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! 18.012122543051035,0.3824192079052864,-0.1333959887498395
 [14Jul2025 16:19:40.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! -10.310104190956665,0.0,0.085855822993949
+[14Jul2025 16:22:39.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! -9.984619723255918,1.0244240882136921,-0.1984504859030949
+[14Jul2025 16:23:20.069] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[14Jul2025 16:23:20.070] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[14Jul2025 16:23:20.076] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[14Jul2025 16:23:30.969] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[14Jul2025 16:23:45.718] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[14Jul2025 16:23:52.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[14Jul2025 16:23:57.786] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[14Jul2025 16:24:18.026] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[14Jul2025 16:24:20.519] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SnatchPlayer (#12) on the server
+[14Jul2025 16:24:23.519] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CarryPlayer (#13) on the server
+[14Jul2025 16:24:23.519] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[14Jul2025 16:24:42.231] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[14Jul2025 16:24:46.168] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[14Jul2025 16:25:00.618] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[14Jul2025 16:25:25.020] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[14Jul2025 16:25:40.617] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[14Jul2025 16:25:43.117] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase DiveBombPlayer (#15) on the server
+[14Jul2025 16:25:47.467] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[14Jul2025 16:25:54.018] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[14Jul2025 16:25:54.917] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[14Jul2025 16:25:57.417] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SnatchPlayer (#12) on the server
+[14Jul2025 16:25:59.417] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CarryPlayer (#13) on the server
+[14Jul2025 16:26:01.416] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[14Jul2025 16:26:01.416] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase LandingApproach (#2) on the server
+[14Jul2025 16:26:16.471] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Landing (#3) on the server
+[14Jul2025 16:26:28.966] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SittingScanning (#6) on the server
+[14Jul2025 16:26:30.217] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SittingAttacking (#7) on the server
+[14Jul2025 16:26:32.216] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SittingFlaming (#5) on the server
+[14Jul2025 16:26:42.166] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SittingScanning (#6) on the server
+[14Jul2025 16:26:43.331] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Takeoff (#4) on the server
+[14Jul2025 16:26:44.567] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[14Jul2025 16:26:48.017] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[14Jul2025 16:26:59.418] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[14Jul2025 16:27:01.917] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CrashPlayer (#14) on the server
+[14Jul2025 16:27:10.917] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[14Jul2025 16:27:18.018] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[14Jul2025 16:27:30.116] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[14Jul2025 16:27:32.617] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase DiveBombPlayer (#15) on the server
+[14Jul2025 16:27:43.816] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[14Jul2025 16:27:47.018] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[14Jul2025 16:28:22.168] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[14Jul2025 16:28:24.665] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CrashPlayer (#14) on the server
+[14Jul2025 16:28:33.668] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[14Jul2025 16:28:34.018] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[14Jul2025 16:28:38.767] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[14Jul2025 16:28:41.267] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase DiveBombPlayer (#15) on the server
+[14Jul2025 16:28:47.082] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Dying (#9) on the server
+[14Jul2025 16:31:43.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has reached the goal [Hulk Smash!]
+[14Jul2025 16:32:16.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[14Jul2025 16:35:21.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[14Jul2025 16:41:03.262] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-287, y=3, z=-998}
+[14Jul2025 16:41:19.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[14Jul2025 16:41:26.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[14Jul2025 16:42:57.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[14Jul2025 16:45:30.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has reached the goal [Postmortal]
+[14Jul2025 16:47:27.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blackdesfail: Gave 3 [Nether Star] to Aqui_Si_Ban]
+[14Jul2025 16:48:12.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail fell from a high place
