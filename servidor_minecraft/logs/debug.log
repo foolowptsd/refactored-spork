@@ -10793,3 +10793,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [14Jul2025 17:09:51.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jul2025 17:09:51.950] [IO-Worker-147/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-149
 [14Jul2025 17:09:51.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 17:12:00.277] [IO-Worker-148/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-150
+[14Jul2025 17:13:22.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has completed the challenge [Was that a Shulker?]
+[14Jul2025 17:14:24.171] [IO-Worker-140/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-151
+[14Jul2025 17:14:51.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 17:14:51.954] [IO-Worker-140/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-152
+[14Jul2025 17:14:51.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 17:15:01.887] [IO-Worker-140/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-153
+[14Jul2025 17:15:01.887] [IO-Worker-147/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-154
+[14Jul2025 17:15:10.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[14Jul2025 17:15:10.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 17:15:10.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 17:15:10.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[14Jul2025 17:15:43.736] [IO-Worker-151/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-155
+[14Jul2025 17:17:58.712] [IO-Worker-147/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-156
+[14Jul2025 17:19:51.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 17:19:51.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 17:20:21.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[14Jul2025 17:21:02.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [Was that a Shulker?]
+[14Jul2025 17:21:52.068] [IO-Worker-147/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-157
+[14Jul2025 17:21:52.069] [IO-Worker-151/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-158
